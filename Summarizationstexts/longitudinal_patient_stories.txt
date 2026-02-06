@@ -1,0 +1,1050 @@
+### PATIENT 10004235 LONGITUDINAL HISTORY ###
+Patient tracked from 2196-02-24 to 2196-06-20 (3 total visits).
+
+INITIAL PRESENTATION (2196-02-24):
+The patient was first admitted for Unspecified disorder of kidney and ureter, Other primary cardiomyopathies, Gout, unspecified, Autistic disorder, current or active state, Septicemia due to escherichia coli [E. coli].
+READMISSION (2196-06-14, 101 days later):
+The patient returned to the hospital presenting with Acute and chronic cholecystitis, Body Mass Index 35.0-35.9, adult, Unspecified essential hypertension, Secondary malignant neoplasm of other digestive organs and spleen, Other specified cardiac dysrhythmias.
+READMISSION (2196-06-20, 1 days later):
+The patient returned to the hospital presenting with Postprocedural fever, Unspecified essential hypertension, Personal history of sudden cardiac arrest, Atrial fibrillation, Long-term (current) use of anticoagulants.
+
+============================================================
+### PATIENT 10009628 LONGITUDINAL HISTORY ###
+Patient tracked from 2153-09-17 to 2153-09-17 (1 total visits).
+
+INITIAL PRESENTATION (2153-09-17):
+The patient was first admitted for Anemia, unspecified, Background diabetic retinopathy, Chronic total occlusion of coronary artery, Other and unspecified hyperlipidemia, Atrial fibrillation.
+
+============================================================
+### PATIENT 10018081 LONGITUDINAL HISTORY ###
+Patient tracked from 2133-12-18 to 2134-09-06 (4 total visits).
+
+INITIAL PRESENTATION (2133-12-18):
+The patient was first admitted for Septic shock, Pulmonary congestion and hypostasis, Hyperosmolality and/or hypernatremia, Thrombocytopenia, unspecified, Unspecified protein-calorie malnutrition.
+READMISSION (2134-08-02, 201 days later):
+The patient returned to the hospital presenting with Encounter for removal of sutures, Accidents occurring in residential institution, Iron deficiency anemia secondary to blood loss (chronic), Unspecified essential hypertension, Acquired absence of intestine (large) (small).
+READMISSION (2134-08-18, 4 days later):
+The patient returned to the hospital presenting with Dementia, unspecified, without behavioral disturbance, Chronic combined systolic and diastolic heart failure, Unspecified vascular insufficiency of intestine, Pure hypercholesterolemia, Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure.
+READMISSION (2134-09-06, 13 days later):
+The patient returned to the hospital presenting with Paroxysmal ventricular tachycardia, Anemia, unspecified, Late effects of cerebrovascular disease, cognitive deficits, Acquired absence of intestine (large) (small), Congestive heart failure, unspecified.
+
+============================================================
+### PATIENT 10006053 LONGITUDINAL HISTORY ###
+Patient tracked from 2111-11-13 to 2111-11-13 (1 total visits).
+
+INITIAL PRESENTATION (2111-11-13):
+The patient was first admitted for Esophageal varices in diseases classified elsewhere, with bleeding, Acute kidney failure with lesion of tubular necrosis, Other specified disorders of circulatory system, Defibrination syndrome, Subendocardial infarction, initial episode of care.
+
+============================================================
+### PATIENT 10031404 LONGITUDINAL HISTORY ###
+Patient tracked from 2113-08-04 to 2113-08-04 (1 total visits).
+
+INITIAL PRESENTATION (2113-08-04):
+The patient was first admitted for Acute kidney failure, unspecified, Hyperlipidemia, unspecified, Hypo-osmolality and hyponatremia, Personal history of nicotine dependence, Personal history of other endocrine, nutritional and metabolic disease.
+
+============================================================
+### PATIENT 10005817 LONGITUDINAL HISTORY ###
+Patient tracked from 2132-12-12 to 2135-01-03 (2 total visits).
+
+INITIAL PRESENTATION (2132-12-12):
+The patient was first admitted for Arthropathy, unspecified, site unspecified, Personal history of antineoplastic chemotherapy, Tobacco use disorder, Long-term (current) use of antiplatelet/antithrombotic, Obesity, unspecified.
+READMISSION (2135-01-03, 744 days later):
+The patient returned to the hospital presenting with Pneumonia, unspecified organism, Type 2 diabetes mellitus without complications, Nicotine dependence, cigarettes, uncomplicated, Chronic systolic (congestive) heart failure, Acute and chronic respiratory failure with hypoxia.
+
+============================================================
+### PATIENT 10019385 LONGITUDINAL HISTORY ###
+Patient tracked from 2180-02-15 to 2180-03-04 (2 total visits).
+
+INITIAL PRESENTATION (2180-02-15):
+The patient was first admitted for Hyperlipidemia, unspecified, Presence of coronary angioplasty implant and graft, Anxiety disorder, unspecified, Body mass index (BMI) 32.0-32.9, adult, Atherosclerotic heart disease of native coronary artery with unstable angina pectoris.
+READMISSION (2180-03-04, 7 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, Presence of coronary angioplasty implant and graft, Presence of aortocoronary bypass graft, Family history of ischemic heart disease and other diseases of the circulatory system, Nicotine dependence, cigarettes, uncomplicated.
+
+============================================================
+### PATIENT 10002495 LONGITUDINAL HISTORY ###
+Patient tracked from 2141-05-22 to 2141-05-22 (1 total visits).
+
+INITIAL PRESENTATION (2141-05-22):
+The patient was first admitted for Personal history of nicotine dependence, Other shock, Other gastritis without bleeding, Unspecified place in hospital as the place of occurrence of the external cause, Enterocolitis due to Clostridium difficile.
+
+============================================================
+### PATIENT 10038081 LONGITUDINAL HISTORY ###
+Patient tracked from 2115-09-27 to 2115-09-27 (1 total visits).
+
+INITIAL PRESENTATION (2115-09-27):
+The patient was first admitted for Spontaneous bacterial peritonitis, Paralytic ileus, Pulmonary congestion and hypostasis, Glucocorticoid deficiency, Hyperpotassemia.
+
+============================================================
+### PATIENT 10019917 LONGITUDINAL HISTORY ###
+
+
+INITIAL PRESENTATION (2182-01-07):
+The patient was first admitted for Acute posthemorrhagic anemia, Ankylosing spondylitis, Duodenitis, without mention of hemorrhage, Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction.
+
+============================================================
+### PATIENT 10037861 LONGITUDINAL HISTORY ###
+Patient tracked from 2115-10-09 to 2117-03-14 (2 total visits).
+
+INITIAL PRESENTATION (2115-10-09):
+The patient was first admitted for Acute on chronic systolic heart failure, Other specified forms of chronic ischemic heart disease, Coronary atherosclerosis of unspecified type of vessel, native or graft, Hyperosmolality and/or hypernatremia, Thrombocytopenia, unspecified.
+READMISSION (2117-03-14, 512 days later):
+The patient returned to the hospital presenting with Status post administration of tPA (rtPA) in a different facility within the last 24 hours prior to admission to current facility, Personal history of nicotine dependence, Epilepsy, unspecified, not intractable, with status epilepticus, Type 2 diabetes mellitus with diabetic chronic kidney disease, Compression of brain.
+
+============================================================
+### PATIENT 10026354 LONGITUDINAL HISTORY ###
+Patient tracked from 2119-10-26 to 2119-10-26 (1 total visits).
+
+INITIAL PRESENTATION (2119-10-26):
+The patient was first admitted for Anemia, unspecified, Assault by unarmed brawl or fight, initial encounter, Thrombocytopenia, unspecified, Dislocation of jaw, initial encounter, Alcohol abuse, uncomplicated.
+
+============================================================
+### PATIENT 10015860 LONGITUDINAL HISTORY ###
+Patient tracked from 2186-09-15 to 2193-11-23 (13 total visits).
+
+INITIAL PRESENTATION (2186-09-15):
+The patient was first admitted for Examination of participant in clinical trial, Ulcer of other part of foot, Unspecified essential hypertension, Depressive disorder, not elsewhere classified, Candidiasis of skin and nails.
+READMISSION (2187-09-15, 351 days later):
+The patient returned to the hospital presenting with Ulcer of other part of foot, Unspecified essential hypertension, Personal history of tobacco use, Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled, Pure hypercholesterolemia.
+READMISSION (2187-12-14, 86 days later):
+The patient returned to the hospital presenting with Examination of participant in clinical trial, Ulcer of other part of foot, Alcohol abuse, in remission, Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified, Chronic kidney disease, unspecified.
+READMISSION (2188-03-29, 103 days later):
+The patient returned to the hospital presenting with Ulcer of other part of foot, Unspecified essential hypertension, Other bone involvement in diseases classified elsewhere, Esophageal reflux, Long-term (current) use of insulin.
+READMISSION (2188-08-06, 125 days later):
+The patient returned to the hospital presenting with Acute kidney failure, unspecified, Ulcer of other part of foot, Family history of diabetes mellitus, Anemia, unspecified, Need for prophylactic vaccination and inoculation against influenza.
+READMISSION (2189-05-23, 283 days later):
+The patient returned to the hospital presenting with Acute kidney failure, unspecified, Ulcer of other part of foot, Need for prophylactic vaccination and inoculation against influenza, Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified, Other specified cardiac dysrhythmias.
+READMISSION (2190-05-15, 354 days later):
+The patient returned to the hospital presenting with Acute kidney failure, unspecified, Personal history of nicotine dependence, Chronic kidney disease, stage 3 (moderate), Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease, Type 2 diabetes mellitus with foot ulcer.
+READMISSION (2191-01-15, 243 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Type 2 diabetes mellitus with diabetic chronic kidney disease, Type 2 diabetes mellitus with diabetic neuropathy, unspecified, Febrile nonhemolytic transfusion reaction, Acidosis.
+READMISSION (2192-05-12, 467 days later):
+The patient returned to the hospital presenting with Chronic viral hepatitis B without delta-agent, Other complication of vascular dialysis catheter, initial encounter, Personal history of nicotine dependence, Acquired absence of other right toe(s), Type 2 diabetes mellitus with diabetic chronic kidney disease.
+READMISSION (2192-07-31, 64 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, Hyperkalemia, Personal history of nicotine dependence, Acquired absence of other right toe(s), Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease.
+READMISSION (2192-09-24, 48 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Acquired absence of other right toe(s), Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease, Type 2 diabetes mellitus with diabetic polyneuropathy, Acute posthemorrhagic anemia.
+READMISSION (2193-05-03, 217 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, Personal history of nicotine dependence, Anemia, unspecified, Acquired absence of other right toe(s), Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease.
+READMISSION (2193-11-23, 202 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Type 2 diabetes mellitus with diabetic chronic kidney disease, Thrombosis due to vascular prosthetic devices, implants and grafts, initial encounter, Dependence on renal dialysis, Gastro-esophageal reflux disease without esophagitis.
+
+============================================================
+### PATIENT 10020740 LONGITUDINAL HISTORY ###
+Patient tracked from 2150-03-11 to 2151-01-15 (5 total visits).
+
+INITIAL PRESENTATION (2150-03-11):
+The patient was first admitted for Hyperosmolality and/or hypernatremia, Thrombocytopenia, unspecified, Unspecified protein-calorie malnutrition, Retention of urine, unspecified, Acute pancreatitis.
+READMISSION (2150-06-03, 39 days later):
+The patient returned to the hospital presenting with Peritoneal adhesions (postoperative) (postinfection), Hypovolemia, Depressive disorder, not elsewhere classified, Physical restraints status, Long-term (current) use of insulin.
+READMISSION (2150-07-09, 32 days later):
+The patient returned to the hospital presenting with Family history of ischemic heart disease, Splenomegaly, Obstructive sleep apnea (adult)(pediatric), Depressive disorder, not elsewhere classified, Other and unspecified hyperlipidemia.
+READMISSION (2150-09-15, 64 days later):
+The patient returned to the hospital presenting with Bipolar I disorder, most recent episode (or current) mixed, unspecified, Headache, Schizoaffective disorder, unspecified, Insomnia, unspecified, Long-term (current) use of insulin.
+READMISSION (2151-01-15, 121 days later):
+The patient returned to the hospital presenting with Schizoaffective disorder, chronic with acute exacerbation, Long-term (current) use of insulin, Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled.
+
+============================================================
+### PATIENT 10012552 LONGITUDINAL HISTORY ###
+Patient tracked from 2140-03-22 to 2140-03-22 (1 total visits).
+
+INITIAL PRESENTATION (2140-03-22):
+The patient was first admitted for Examination of participant in clinical trial, Unspecified essential hypertension, Other and unspecified hyperlipidemia, Personal history of antineoplastic chemotherapy, Personal history of malignant neoplasm of large intestine.
+
+============================================================
+### PATIENT 10014354 LONGITUDINAL HISTORY ###
+Patient tracked from 2146-10-08 to 2150-05-09 (20 total visits).
+
+INITIAL PRESENTATION (2146-10-08):
+The patient was first admitted for Hyperlipidemia, unspecified, Status post administration of tPA (rtPA) in a different facility within the last 24 hours prior to admission to current facility, Diabetes mellitus due to underlying condition with hyperglycemia, Essential (primary) hypertension, Pain in left shoulder.
+READMISSION (2146-11-09, 27 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, Chronic lymphocytic leukemia of B-cell type not having achieved remission, Bradycardia, unspecified, Type 2 diabetes mellitus without complications, Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits.
+READMISSION (2147-04-26, 168 days later):
+The patient returned to the hospital presenting with Obstructive sleep apnea (adult) (pediatric), Non-ST elevation (NSTEMI) myocardial infarction, Hyperlipidemia, unspecified, Mild cognitive impairment, so stated, Chronic lymphocytic leukemia of B-cell type not having achieved remission.
+READMISSION (2147-06-04, 35 days later):
+The patient returned to the hospital presenting with Obstructive sleep apnea (adult) (pediatric), Hyperlipidemia, unspecified, Presence of coronary angioplasty implant and graft, Unspecified atrial fibrillation, Chronic lymphocytic leukemia of B-cell type not having achieved remission.
+READMISSION (2147-09-12, 99 days later):
+The patient returned to the hospital presenting with Type 2 diabetes mellitus without complications, Other chest pain, Gastro-esophageal reflux disease without esophagitis, Presence of cardiac pacemaker, Anxiety disorder, unspecified.
+READMISSION (2147-11-14, 63 days later):
+The patient returned to the hospital presenting with Hypovolemia, Malignant neoplasm of descended left testis, Chronic diastolic (congestive) heart failure, Bariatric surgery status, Anxiety disorder, unspecified.
+READMISSION (2147-11-26, 9 days later):
+The patient returned to the hospital presenting with Bariatric surgery status, Presence of cardiac pacemaker, Obesity, unspecified, Anxiety disorder, unspecified, Chronic lymphocytic leukemia of B-cell type not having achieved remission.
+READMISSION (2148-05-10, 162 days later):
+The patient returned to the hospital presenting with Chronic diastolic (congestive) heart failure, Hemorrhage of anus and rectum, Bariatric surgery status, Polyp of colon, Presence of cardiac pacemaker.
+READMISSION (2148-06-24, 35 days later):
+The patient returned to the hospital presenting with Bariatric surgery status, Obesity, unspecified, Anxiety disorder, unspecified, Long term (current) use of oral hypoglycemic drugs, Chronic lymphocytic leukemia of B-cell type not having achieved remission.
+READMISSION (2148-06-30, 1 days later):
+The patient returned to the hospital presenting with Pneumonia, unspecified organism, Bariatric surgery status, Chondrocostal junction syndrome [Tietze], Presence of cardiac pacemaker, Acute on chronic diastolic (congestive) heart failure.
+READMISSION (2148-07-18, 4 days later):
+The patient returned to the hospital presenting with Type 2 diabetes mellitus without complications, Chronic diastolic (congestive) heart failure, Obesity, unspecified, Chronic lymphocytic leukemia of B-cell type not having achieved remission, Schizoaffective disorder, unspecified.
+READMISSION (2148-08-14, 25 days later):
+The patient returned to the hospital presenting with Hypovolemia, Type 2 diabetes mellitus without complications, Chronic diastolic (congestive) heart failure, Retention of urine, unspecified, Obesity, unspecified.
+READMISSION (2148-08-22, 3 days later):
+The patient returned to the hospital presenting with Acute on chronic systolic (congestive) heart failure, Chronic lymphocytic leukemia of B-cell type not having achieved remission, Schizoaffective disorder, unspecified, Other chronic pain, Delirium due to known physiological condition.
+READMISSION (2149-03-04, 177 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, Sacrococcygeal disorders, not elsewhere classified, Pain in left shoulder, Presence of cardiac pacemaker, Chronic lymphocytic leukemia of B-cell type not having achieved remission.
+READMISSION (2149-06-19, 106 days later):
+The patient returned to the hospital presenting with Obstructive sleep apnea (adult) (pediatric), Major depressive disorder, single episode, severe with psychotic features, Poisoning by insulin and oral hypoglycemic [antidiabetic] drugs, accidental (unintentional), initial encounter, Paroxysmal atrial fibrillation, Chronic lymphocytic leukemia of B-cell type in remission.
+READMISSION (2149-09-17, 89 days later):
+The patient returned to the hospital presenting with Other symptoms and signs concerning food and fluid intake, Epigastric pain, Presence of cardiac pacemaker, Anxiety disorder, unspecified, Generalized hyperhidrosis.
+READMISSION (2150-02-04, 139 days later):
+The patient returned to the hospital presenting with Homonymous bilateral field defects, left side, Bariatric surgery status, Obesity, unspecified, Anxiety disorder, unspecified, Sick sinus syndrome.
+READMISSION (2150-04-10, 60 days later):
+The patient returned to the hospital presenting with Bilateral primary osteoarthritis of hip, Other place in hospital as the place of occurrence of the external cause, Type 2 diabetes mellitus with diabetic chronic kidney disease, Nephropathy induced by other drugs, medicaments and biological substances, Pure hyperglyceridemia.
+READMISSION (2150-04-30, 15 days later):
+The patient returned to the hospital presenting with Hypovolemia, Thrombocytopenia, unspecified, Adverse effect of other opioids, initial encounter, Retention of urine, unspecified, Bariatric surgery status.
+READMISSION (2150-05-09, 2 days later):
+The patient returned to the hospital presenting with Lower abdominal pain, unspecified, Thrombocytopenia, unspecified, Retention of urine, unspecified, Anemia in other chronic diseases classified elsewhere, Bariatric surgery status.
+
+============================================================
+### PATIENT 10039708 LONGITUDINAL HISTORY ###
+Patient tracked from 2138-10-30 to 2144-01-19 (10 total visits).
+
+INITIAL PRESENTATION (2138-10-30):
+The patient was first admitted for Anemia, unspecified, Unspecified essential hypertension, Unspecified acquired hypothyroidism, Other and unspecified manifestations of thiamine deficiency, Asthma, unspecified type, unspecified.
+READMISSION (2140-01-23, 442 days later):
+The patient returned to the hospital presenting with Pneumonitis due to inhalation of food and vomit, Takotsubo syndrome, Unspecified asthma, uncomplicated, Anuria and oliguria, Patient room in hospital as the place of occurrence of the external cause.
+READMISSION (2140-06-18, 112 days later):
+The patient returned to the hospital presenting with Unspecified asthma, uncomplicated, Gout, unspecified, Unspecified protein-calorie malnutrition, Polyneuropathy, unspecified, Bariatric surgery status.
+READMISSION (2140-09-25, 94 days later):
+The patient returned to the hospital presenting with Acute kidney failure, unspecified, Nutritional anemia, unspecified, Hypotension, unspecified, Chronic kidney disease, stage 3 (moderate), Acidosis.
+READMISSION (2142-03-26, 545 days later):
+The patient returned to the hospital presenting with Alcohol induced acute pancreatitis without necrosis or infection, Pneumonia, unspecified organism, Alcoholic cirrhosis of liver with ascites, Nicotine dependence, cigarettes, uncomplicated, Alcohol-induced chronic pancreatitis.
+READMISSION (2142-05-15, 33 days later):
+The patient returned to the hospital presenting with Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease, Unspecified cirrhosis of liver, Displacement of vascular dialysis catheter, initial encounter, Other medical devices associated with adverse incidents, Dependence on renal dialysis.
+READMISSION (2142-07-06, 51 days later):
+The patient returned to the hospital presenting with Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease, Unspecified asthma, uncomplicated, Thrombocytopenia, unspecified, Dependence on renal dialysis, Personal history of other venous thrombosis and embolism.
+READMISSION (2143-09-19, 439 days later):
+The patient returned to the hospital presenting with Alcoholic cirrhosis of liver with ascites, Localized swelling, mass and lump, left upper limb, Cyst of kidney, acquired, Alcohol abuse, uncomplicated, Nicotine dependence, cigarettes, uncomplicated.
+READMISSION (2143-09-26, 3 days later):
+The patient returned to the hospital presenting with Contusion of right back wall of thorax, initial encounter, Unspecified asthma, uncomplicated, Thrombocytopenia, unspecified, Nicotine dependence, cigarettes, uncomplicated, Anemia in other chronic diseases classified elsewhere.
+READMISSION (2144-01-19, 110 days later):
+The patient returned to the hospital presenting with Secondary esophageal varices without bleeding, Anemia, unspecified, Unspecified asthma, uncomplicated, Hepatic failure, unspecified without coma, Underdosing of saline and osmotic laxatives, initial encounter.
+
+============================================================
+### PATIENT 10000032 LONGITUDINAL HISTORY ###
+Patient tracked from 2180-05-06 to 2180-08-05 (4 total visits).
+
+INITIAL PRESENTATION (2180-05-06):
+The patient was first admitted for Cirrhosis of liver without mention of alcohol, Unspecified viral hepatitis C without hepatic coma, Portal hypertension, Posttraumatic stress disorder, Personal history of tobacco use.
+READMISSION (2180-06-26, 50 days later):
+The patient returned to the hospital presenting with Cirrhosis of liver without mention of alcohol, Unspecified viral hepatitis C with hepatic coma, Tobacco use disorder, Thrombocytopenia, unspecified, Other ascites.
+READMISSION (2180-07-23, 25 days later):
+The patient returned to the hospital presenting with Other dependence on machines, supplemental oxygen, Hyposmolality and/or hyponatremia, Cirrhosis of liver without mention of alcohol, Chronic hepatitis C with hepatic coma, Tobacco use disorder.
+READMISSION (2180-08-05, 11 days later):
+The patient returned to the hospital presenting with Other dependence on machines, supplemental oxygen, Cirrhosis of liver without mention of alcohol, Diarrhea, Tobacco use disorder, Hyperpotassemia.
+
+============================================================
+### PATIENT 10020786 LONGITUDINAL HISTORY ###
+Patient tracked from 2189-06-09 to 2189-06-09 (1 total visits).
+
+INITIAL PRESENTATION (2189-06-09):
+The patient was first admitted for Pneumonia, unspecified organism, Hyperlipidemia, unspecified, Unspecified hemorrhoids, Do not resuscitate, Long term (current) use of anticoagulants.
+
+============================================================
+### PATIENT 10027445 LONGITUDINAL HISTORY ###
+Patient tracked from 2142-07-31 to 2145-12-08 (3 total visits).
+
+INITIAL PRESENTATION (2142-07-31):
+The patient was first admitted for Anemia, unspecified, Unspecified essential hypertension, Congestive heart failure, unspecified, Postinflammatory pulmonary fibrosis, Alkalosis.
+READMISSION (2142-08-27, 18 days later):
+The patient returned to the hospital presenting with Other chronic pulmonary heart diseases, Accidental cut, puncture, perforation or hemorrhage during heart catheterization, Depressive disorder, not elsewhere classified, Congestive heart failure, unspecified, Postinflammatory pulmonary fibrosis.
+READMISSION (2145-12-08, 1190 days later):
+The patient returned to the hospital presenting with Other dependence on machines, supplemental oxygen, Home accidents, Depressive disorder, not elsewhere classified, Acquired absence of both cervix and uterus, Tobacco use disorder.
+
+============================================================
+### PATIENT 10015931 LONGITUDINAL HISTORY ###
+Patient tracked from 2176-11-14 to 2177-03-24 (3 total visits).
+
+INITIAL PRESENTATION (2176-11-14):
+The patient was first admitted for Sebaceous cyst, Anuria and oliguria, Type 2 diabetes mellitus with diabetic chronic kidney disease, Chronic atrial fibrillation, Other secondary pulmonary hypertension.
+READMISSION (2176-12-16, 19 days later):
+The patient returned to the hospital presenting with Type 2 diabetes mellitus with diabetic chronic kidney disease, Patient room in hospital as the place of occurrence of the external cause, Adjustment disorder with other symptoms, Thrombocytopenia, unspecified, Other secondary pulmonary hypertension.
+READMISSION (2177-03-24, 83 days later):
+The patient returned to the hospital presenting with Personal history of urinary calculi, Type 2 diabetes mellitus with diabetic chronic kidney disease, Thrombocytopenia, unspecified, Do not resuscitate, Acute kidney failure with tubular necrosis.
+
+============================================================
+### PATIENT 10036156 LONGITUDINAL HISTORY ###
+Patient tracked from 2157-07-01 to 2157-07-01 (1 total visits).
+
+INITIAL PRESENTATION (2157-07-01):
+The patient was first admitted for Cardiac pacemaker in situ, Atrioventricular block, complete, Unspecified essential hypertension, Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction, Abnormal coagulation profile.
+
+============================================================
+### PATIENT 10021312 LONGITUDINAL HISTORY ###
+Patient tracked from 2113-08-16 to 2113-09-12 (2 total visits).
+
+INITIAL PRESENTATION (2113-08-16):
+The patient was first admitted for Malignant neoplasm of left main bronchus, Personal history of pneumonia (recurrent), Anxiety disorder, unspecified, Candidiasis, unspecified, Encounter for immunization.
+READMISSION (2113-09-12, 24 days later):
+The patient returned to the hospital presenting with Anxiety disorder, unspecified, Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere, Personal history of nicotine dependence, Essential (primary) hypertension, Pneumonitis due to inhalation of food and vomit.
+
+============================================================
+### PATIENT 10003400 LONGITUDINAL HISTORY ###
+Patient tracked from 2134-06-06 to 2137-08-04 (7 total visits).
+
+INITIAL PRESENTATION (2134-06-06):
+The patient was first admitted for Other nonspecific findings on examination of urine, Unspecified essential hypertension, Atrial fibrillation, Multiple myeloma, without mention of having achieved remission, Long-term (current) use of anticoagulants.
+READMISSION (2136-11-04, 881 days later):
+The patient returned to the hospital presenting with Diverticulosis of colon (without mention of hemorrhage), Other nonspecific findings on examination of urine, Other drug-induced pancytopenia, Home accidents, Hypotension, unspecified.
+READMISSION (2136-12-09, 26 days later):
+The patient returned to the hospital presenting with Other drug-induced pancytopenia, Malignant neoplasm of anus, unspecified site, Osteoarthrosis, unspecified whether generalized or localized, lower leg, Hyposmolality and/or hyponatremia, Chronic kidney disease, Stage III (moderate).
+READMISSION (2136-12-31, 16 days later):
+The patient returned to the hospital presenting with Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified, Osteoarthrosis, localized, not specified whether primary or secondary, lower leg, Atrial fibrillation, Other encephalopathy, Long-term (current) use of anticoagulants.
+READMISSION (2137-02-07, 35 days later):
+The patient returned to the hospital presenting with Malignant neoplasm of rectum, Calculus of ureter, Iron deficiency anemia secondary to blood loss (chronic), Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified, Disorders of phosphorus metabolism.
+READMISSION (2137-02-24, 5 days later):
+The patient returned to the hospital presenting with Peritoneal adhesions (postoperative) (postinfection), Physical restraints status, Defibrination syndrome, Delirium due to conditions classified elsewhere, Malignant neoplasm of anus, unspecified site.
+READMISSION (2137-08-04, 137 days later):
+The patient returned to the hospital presenting with Unspecified intestinal obstruction, Body mass index (BMI) 38.0-38.9, adult, Chronic atrial fibrillation, Thrombocytopenia, unspecified, Unspecified protein-calorie malnutrition.
+
+============================================================
+### PATIENT 10023117 LONGITUDINAL HISTORY ###
+Patient tracked from 2170-10-08 to 2175-07-06 (7 total visits).
+
+INITIAL PRESENTATION (2170-10-08):
+The patient was first admitted for Congestive heart failure, unspecified, Mechanical complication of automatic implantable cardiac defibrillator, Other primary cardiomyopathies, Chronic systolic heart failure, Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure.
+READMISSION (2171-11-07, 394 days later):
+The patient returned to the hospital presenting with Other specified misadventures during medical care, Acute on chronic systolic heart failure, Home accidents, Other left bundle branch block, Paranoid type schizophrenia, chronic.
+READMISSION (2173-04-16, 511 days later):
+The patient returned to the hospital presenting with Acute kidney failure, unspecified, Anxiety state, unspecified, Acute on chronic systolic heart failure, Cardiac pacemaker in situ, Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified.
+READMISSION (2174-06-07, 413 days later):
+The patient returned to the hospital presenting with Acute on chronic systolic heart failure, Iron deficiency anemia secondary to blood loss (chronic), Depressive disorder, not elsewhere classified, Other primary cardiomyopathies, Hyposmolality and/or hyponatremia.
+READMISSION (2174-12-16, 186 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, Personal history of nicotine dependence, Anxiety disorder, unspecified, Anemia, unspecified, Rheumatic disorders of both mitral and tricuspid valves.
+READMISSION (2175-03-20, 90 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Anuria and oliguria, Acquired absence of kidney, Other secondary pulmonary hypertension, Gastro-esophageal reflux disease without esophagitis.
+READMISSION (2175-07-06, 98 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Acute on chronic systolic (congestive) heart failure, Gastro-esophageal reflux disease without esophagitis, Anxiety disorder, unspecified, Do not resuscitate.
+
+============================================================
+### PATIENT 10038992 LONGITUDINAL HISTORY ###
+Patient tracked from 2185-11-02 to 2187-07-29 (2 total visits).
+
+INITIAL PRESENTATION (2185-11-02):
+The patient was first admitted for Depressive disorder, not elsewhere classified, Dementia, unspecified, without behavioral disturbance, Other primary cardiomyopathies, Edema, Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH].
+READMISSION (2187-07-29, 627 days later):
+The patient returned to the hospital presenting with Obstructive sleep apnea (adult) (pediatric), Hyperlipidemia, unspecified, Personal history of nicotine dependence, Chronic kidney disease, stage 3 (moderate), Other secondary pulmonary hypertension.
+
+============================================================
+### PATIENT 10037975 LONGITUDINAL HISTORY ###
+Patient tracked from 2185-01-17 to 2185-01-17 (1 total visits).
+
+INITIAL PRESENTATION (2185-01-17):
+The patient was first admitted for Unspecified hereditary and idiopathic peripheral neuropathy, Septic shock, Tobacco use disorder, Hyperosmolality and/or hypernatremia, Edema.
+
+============================================================
+### PATIENT 10035185 LONGITUDINAL HISTORY ###
+Patient tracked from 2120-05-12 to 2120-05-12 (1 total visits).
+
+INITIAL PRESENTATION (2120-05-12):
+The patient was first admitted for Examination of participant in clinical trial, Personal history of other malignant neoplasm of skin, Body Mass Index 32.0-32.9, adult, Arthropathy, unspecified, lower leg, Other and unspecified hyperlipidemia.
+
+============================================================
+### PATIENT 10002930 LONGITUDINAL HISTORY ###
+Patient tracked from 2193-08-05 to 2201-03-23 (12 total visits).
+
+INITIAL PRESENTATION (2193-08-05):
+The patient was first admitted for Alcohol abuse, unspecified, Depressive disorder, not elsewhere classified, Unemployment, Panic disorder without agoraphobia, Mononeuritis of unspecified site.
+READMISSION (2193-08-05, 0 days later):
+The patient returned to the hospital presenting with Alcohol abuse, unspecified, Depressive disorder, not elsewhere classified, Cocaine abuse, unspecified, Suicidal ideation, Asymptomatic human immunodeficiency virus [HIV] infection status.
+READMISSION (2196-04-14, 977 days later):
+The patient returned to the hospital presenting with Alcohol abuse, unspecified, Other, mixed, or unspecified drug abuse, unspecified, Other specified hypoglycemia, Depressive disorder, not elsewhere classified, Acidosis.
+READMISSION (2197-04-07, 354 days later):
+The patient returned to the hospital presenting with Alcohol abuse, unspecified, Unspecified viral hepatitis C without hepatic coma, Unspecified psychosis, Cocaine abuse, unspecified, Suicidal ideation.
+READMISSION (2197-04-08, 0 days later):
+The patient returned to the hospital presenting with Alcohol abuse, unspecified, Unspecified viral hepatitis C without hepatic coma, Dysmenorrhea, Opioid abuse, in remission, Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior.
+READMISSION (2197-04-17, 1 days later):
+The patient returned to the hospital presenting with Asymptomatic human immunodeficiency virus [HIV] infection status, Alcohol abuse, unspecified, Unspecified viral hepatitis C without hepatic coma, Other, mixed, or unspecified drug abuse, unspecified, Depressive disorder, not elsewhere classified.
+READMISSION (2198-04-17, 365 days later):
+The patient returned to the hospital presenting with Cocaine abuse, uncomplicated, Asymptomatic human immunodeficiency virus [HIV] infection status, Unspecified viral hepatitis C without hepatic coma, Opioid abuse, uncomplicated, Decreased white blood cell count, unspecified.
+READMISSION (2198-04-22, 0 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Unspecified viral hepatitis C without hepatic coma, Human immunodeficiency virus [HIV] disease, Schizophrenia, unspecified, Alcohol use, unspecified with unspecified alcohol-induced disorder.
+READMISSION (2199-02-17, 289 days later):
+The patient returned to the hospital presenting with Unspecified mood [affective] disorder, Urinary tract infection, site not specified, Unspecified fall, initial encounter, Homelessness, Unspecified psychosis not due to a substance or known physiological condition.
+READMISSION (2200-06-05, 470 days later):
+The patient returned to the hospital presenting with Unspecified viral hepatitis C without hepatic coma, Altered mental status, unspecified, Hypoglycemia, unspecified, Alcohol abuse with intoxication, unspecified, Asymptomatic human immunodeficiency virus [HIV] infection status.
+READMISSION (2201-02-12, 252 days later):
+The patient returned to the hospital presenting with Unspecified viral hepatitis C without hepatic coma, Human immunodeficiency virus [HIV] disease, Altered mental status, unspecified, Hypoglycemia, unspecified, Alcohol abuse with intoxication, unspecified.
+READMISSION (2201-03-23, 38 days later):
+The patient returned to the hospital presenting with Unspecified mood [affective] disorder, Unspecified viral hepatitis C without hepatic coma, Human immunodeficiency virus [HIV] disease, Headache, Unspecified fall, initial encounter.
+
+============================================================
+### PATIENT 10007795 LONGITUDINAL HISTORY ###
+Patient tracked from 2136-04-10 to 2136-09-22 (5 total visits).
+
+INITIAL PRESENTATION (2136-04-10):
+The patient was first admitted for Acute edema of lung, unspecified, Diverticulosis of colon (without mention of hemorrhage), Depressive disorder, not elsewhere classified, Colostomy status, Long-term (current) use of insulin.
+READMISSION (2136-05-04, 2 days later):
+The patient returned to the hospital presenting with Other and unspecified mycoses, Alcohol abuse, unspecified, Anemia, unspecified, Unspecified essential hypertension, Cyst and pseudocyst of pancreas.
+READMISSION (2136-07-24, 73 days later):
+The patient returned to the hospital presenting with Unspecified essential hypertension, Cyst and pseudocyst of pancreas, Colostomy status, Personal history of other diseases of digestive system, Tobacco use disorder.
+READMISSION (2136-08-04, 8 days later):
+The patient returned to the hospital presenting with Other and unspecified mycoses, Unspecified essential hypertension, Cyst and pseudocyst of pancreas, Streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus, Colostomy status.
+READMISSION (2136-09-22, 42 days later):
+The patient returned to the hospital presenting with Alcohol abuse, unspecified, Abdominal pain, other specified site, Unspecified essential hypertension, Depressive disorder, not elsewhere classified, Colostomy status.
+
+============================================================
+### PATIENT 10004733 LONGITUDINAL HISTORY ###
+Patient tracked from 2174-12-04 to 2174-12-04 (1 total visits).
+
+INITIAL PRESENTATION (2174-12-04):
+The patient was first admitted for Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified, Diverticulosis of colon (without mention of hemorrhage), Hemiplegia, unspecified, affecting unspecified side, Physical restraints status, Hyperosmolality and/or hypernatremia.
+
+============================================================
+### PATIENT 10021118 LONGITUDINAL HISTORY ###
+Patient tracked from 2161-11-15 to 2161-11-15 (1 total visits).
+
+INITIAL PRESENTATION (2161-11-15):
+The patient was first admitted for Non-ST elevation (NSTEMI) myocardial infarction, Personal history of nicotine dependence, Anxiety disorder, unspecified, Long term (current) use of aspirin, Acute posthemorrhagic anemia.
+
+============================================================
+### PATIENT 10006580 LONGITUDINAL HISTORY ###
+Patient tracked from 2137-08-10 to 2137-08-10 (1 total visits).
+
+INITIAL PRESENTATION (2137-08-10):
+The patient was first admitted for Unspecified essential hypertension, Arthropathy, unspecified, site unspecified, Depressive disorder, not elsewhere classified, Neoplasm of unspecified nature of endocrine glands and other parts of nervous system, Other and unspecified hyperlipidemia.
+
+============================================================
+### PATIENT 10023771 LONGITUDINAL HISTORY ###
+Patient tracked from 2113-08-25 to 2113-08-25 (1 total visits).
+
+INITIAL PRESENTATION (2113-08-25):
+The patient was first admitted for Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation, Unspecified essential hypertension, Personal history of antineoplastic chemotherapy, Hemorrhage complicating a procedure, Other and unspecified hyperlipidemia.
+
+============================================================
+### PATIENT 10005348 LONGITUDINAL HISTORY ###
+Patient tracked from 2128-09-05 to 2130-10-26 (3 total visits).
+
+INITIAL PRESENTATION (2128-09-05):
+The patient was first admitted for Unspecified hereditary and idiopathic peripheral neuropathy, Cerebral atherosclerosis, Lumbosacral spondylosis without myelopathy, Depressive disorder, not elsewhere classified, Orthostatic hypotension.
+READMISSION (2129-05-22, 251 days later):
+The patient returned to the hospital presenting with Unspecified essential hypertension, Other and unspecified hyperlipidemia, Other and unspecified angina pectoris, Long-term (current) use of aspirin, Coronary atherosclerosis of native coronary artery.
+READMISSION (2130-10-26, 521 days later):
+The patient returned to the hospital presenting with Depressive disorder, not elsewhere classified, Orthostatic hypotension, Mobitz (type) II atrioventricular block, Cardiac complications, not elsewhere classified, Thrombocytopenia, unspecified.
+
+============================================================
+### PATIENT 10019172 LONGITUDINAL HISTORY ###
+Patient tracked from 2118-10-08 to 2118-11-15 (2 total visits).
+
+INITIAL PRESENTATION (2118-10-08):
+The patient was first admitted for Other cysts of jaws, Postprocedural fever, Unspecified essential hypertension, Urinary tract infection, site not specified, Atrial fibrillation.
+READMISSION (2118-11-15, 34 days later):
+The patient returned to the hospital presenting with Osteoarthrosis, unspecified whether generalized or localized, site unspecified, Paroxysmal ventricular tachycardia, Unspecified essential hypertension, Atrial fibrillation, Tobacco use disorder.
+
+============================================================
+### PATIENT 10021487 LONGITUDINAL HISTORY ###
+Patient tracked from 2116-12-03 to 2117-12-03 (6 total visits).
+
+INITIAL PRESENTATION (2116-12-03):
+The patient was first admitted for Closed fracture of four ribs, Cardiac complications, not elsewhere classified, Hyperpotassemia, Right bundle branch block, Methicillin susceptible pneumonia due to Staphylococcus aureus.
+READMISSION (2117-01-28, 30 days later):
+The patient returned to the hospital presenting with Abscess of liver, Streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus.
+READMISSION (2117-03-03, 26 days later):
+The patient returned to the hospital presenting with Paralytic ileus, Abscess of liver, Adult failure to thrive, Unspecified protein-calorie malnutrition, Peritoneal abscess.
+READMISSION (2117-07-16, 110 days later):
+The patient returned to the hospital presenting with Peritoneal adhesions (postoperative) (postinfection), Other specified disorders of intestine, Paralytic ileus, Abscess of liver, Other digestive system complications.
+READMISSION (2117-10-25, 92 days later):
+The patient returned to the hospital presenting with Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation, Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other gram-negative organisms, Personal history of traumatic fracture, Peritoneal abscess, Intestinal bypass or anastomosis status.
+READMISSION (2117-12-03, 35 days later):
+The patient returned to the hospital presenting with Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation, Acquired absence of intestine (large) (small), Streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus, Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other gram-negative organisms, Personal history of traumatic fracture.
+
+============================================================
+### PATIENT 10013049 LONGITUDINAL HISTORY ###
+Patient tracked from 2114-06-20 to 2114-06-20 (1 total visits).
+
+INITIAL PRESENTATION (2114-06-20):
+The patient was first admitted for Family history of ischemic heart disease, Personal history of colonic polyps, Unspecified gastritis and gastroduodenitis, without mention of hemorrhage, Unspecified hemorrhoids without mention of complication, Benign neoplasm of heart.
+
+============================================================
+### PATIENT 10035631 LONGITUDINAL HISTORY ###
+Patient tracked from 2112-09-17 to 2116-02-27 (9 total visits).
+
+INITIAL PRESENTATION (2112-09-17):
+The patient was first admitted for Examination of participant in clinical trial, Drug induced headache, not elsewhere classified, Other and unspecified anti-infectives causing adverse effects in therapeutic use, Other agents affecting blood constituents causing adverse effects in therapeutic use, Other pancytopenia.
+READMISSION (2112-10-22, 4 days later):
+The patient returned to the hospital presenting with Examination of participant in clinical trial, Acute myeloid leukemia, in remission, Personal history of tobacco use, Encounter for antineoplastic chemotherapy, Other nonspecific abnormal serum enzyme levels.
+READMISSION (2112-11-10, 13 days later):
+The patient returned to the hospital presenting with Aspergillosis, Examination of participant in clinical trial, Local infection due to central venous catheter, Other pancytopenia, Personal history of tobacco use.
+READMISSION (2112-12-04, 13 days later):
+The patient returned to the hospital presenting with Aspergillosis, Disorders of magnesium metabolism, Antineoplastic chemotherapy induced pancytopenia, Examination of participant in clinical trial, Unspecified essential hypertension.
+READMISSION (2113-07-17, 202 days later):
+The patient returned to the hospital presenting with Family history of unspecified malignant neoplasm, Estrogen receptor positive status [ER+], Malignant neoplasm of other and unspecified sites of male breast, Acute myeloid leukemia, without mention of having achieved remission, Personal history of tobacco use.
+READMISSION (2113-08-26, 39 days later):
+The patient returned to the hospital presenting with Aspergillosis, Family history of malignant neoplasm of gastrointestinal tract, Examination of participant in clinical trial, Shortness of breath, Pneumonia, organism unspecified.
+READMISSION (2115-11-08, 800 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Orthostatic hypotension, Patient room in hospital as the place of occurrence of the external cause, Acquired absence of left breast and nipple, Other chest pain.
+READMISSION (2116-02-13, 66 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Acute myeloblastic leukemia, in relapse, Personal history of malignant neoplasm of breast, Stem cells transplant status, Encounter for antineoplastic chemotherapy.
+READMISSION (2116-02-27, 12 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Graft-versus-host disease, unspecified, Hemoptysis, Atelectasis, Patient room in hospital as the place of occurrence of the external cause.
+
+============================================================
+### PATIENT 10019003 LONGITUDINAL HISTORY ###
+Patient tracked from 2148-12-21 to 2155-10-17 (8 total visits).
+
+INITIAL PRESENTATION (2148-12-21):
+The patient was first admitted for Other emphysema, Unspecified essential hypertension, Depressive disorder, not elsewhere classified, Other and unspecified ovarian cyst, Other and unspecified hyperlipidemia.
+READMISSION (2153-03-27, 1554 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Chronic myeloproliferative disease, Unspecified asthma, uncomplicated, Type 2 diabetes mellitus without complications, Sepsis, unspecified organism.
+READMISSION (2153-04-12, 5 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Pneumonitis due to inhalation of food and vomit, Type 2 diabetes mellitus without complications, Myelodysplastic disease, not classified, Thrombocytopenia, unspecified.
+READMISSION (2155-05-17, 756 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Myelodysplastic syndrome, unspecified, Atelectasis, Type 2 diabetes mellitus without complications, Unspecified abdominal pain.
+READMISSION (2155-05-22, 3 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, Personal history of nicotine dependence, Chronic pulmonary edema, Myelodysplastic syndrome, unspecified, Infarction of spleen.
+READMISSION (2155-06-10, 11 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Myelodysplastic syndrome, unspecified, Type 2 diabetes mellitus without complications, Tumor lysis syndrome, Anxiety disorder, unspecified.
+READMISSION (2155-07-10, 25 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Type 2 diabetes mellitus without complications, Chronic diastolic (congestive) heart failure, Other pancytopenia, Acidosis.
+READMISSION (2155-10-17, 91 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Myelodysplastic syndrome, unspecified, Type 2 diabetes mellitus without complications, Thrombocytopenia, unspecified, Unspecified abdominal pain.
+
+============================================================
+### PATIENT 10009035 LONGITUDINAL HISTORY ###
+Patient tracked from 2161-04-27 to 2161-04-27 (1 total visits).
+
+INITIAL PRESENTATION (2161-04-27):
+The patient was first admitted for Iatrogenic pneumothorax, Flatulence, eructation, and gas pain, Mitral valve disorders, Other postprocedural status.
+
+============================================================
+### PATIENT 10040025 LONGITUDINAL HISTORY ###
+Patient tracked from 2143-03-18 to 2148-01-23 (10 total visits).
+
+INITIAL PRESENTATION (2143-03-18):
+The patient was first admitted for Percutaneous transluminal coronary angioplasty status, Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified, Unspecified acquired hypothyroidism, Congestive heart failure, unspecified, Diastolic heart failure, unspecified.
+READMISSION (2145-07-03, 837 days later):
+The patient returned to the hospital presenting with Arthropathy, unspecified, site unspecified, Depressive disorder, not elsewhere classified, Long-term (current) use of insulin, Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus, Atherosclerosis of renal artery.
+READMISSION (2145-07-24, 19 days later):
+The patient returned to the hospital presenting with Depressive disorder, not elsewhere classified, Long-term (current) use of insulin, Chronic kidney disease, Stage III (moderate), Obesity, unspecified, Retinal vascular occlusion, unspecified.
+READMISSION (2145-10-19, 80 days later):
+The patient returned to the hospital presenting with Obstructive sleep apnea (adult)(pediatric), Percutaneous transluminal coronary angioplasty status, Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified, Congestive heart failure, unspecified, Other and unspecified hyperlipidemia.
+READMISSION (2147-06-16, 600 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Pneumonitis due to inhalation of food and vomit, Type 2 diabetes mellitus with diabetic chronic kidney disease, Other specified disorders of adrenal gland, Atherosclerosis of renal artery.
+READMISSION (2147-08-03, 41 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Type 2 diabetes mellitus with diabetic chronic kidney disease, Atherosclerosis of renal artery, Chronic diastolic (congestive) heart failure, Obesity, unspecified.
+READMISSION (2147-11-09, 94 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Type 2 diabetes mellitus with diabetic chronic kidney disease, Other secondary pulmonary hypertension, Unspecified place in hospital as the place of occurrence of the external cause, Acute on chronic systolic (congestive) heart failure.
+READMISSION (2147-12-04, 20 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Type 2 diabetes mellitus with diabetic chronic kidney disease, Gout, unspecified, Type 2 diabetes mellitus with other skin complications, Chronic systolic (congestive) heart failure.
+READMISSION (2147-12-29, 11 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Type 2 diabetes mellitus with diabetic chronic kidney disease, Atherosclerosis of renal artery, Obesity, unspecified, Cellulitis of left lower limb.
+READMISSION (2148-01-23, 13 days later):
+The patient returned to the hospital presenting with Surgical operation with anastomosis, bypass or graft as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure, Drug induced constipation, Type 2 diabetes mellitus with diabetic chronic kidney disease, Patient room in hospital as the place of occurrence of the external cause, Other postprocedural shock, initial encounter.
+
+============================================================
+### PATIENT 10014729 LONGITUDINAL HISTORY ###
+Patient tracked from 2125-02-27 to 2125-03-19 (2 total visits).
+
+INITIAL PRESENTATION (2125-02-27):
+The patient was first admitted for Accidents occurring in residential institution, Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle, Injury to thoracic aorta, Street and highway accidents, Mechanical complication of nervous system device, implant, and graft.
+READMISSION (2125-03-19, 13 days later):
+The patient returned to the hospital presenting with Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation, Accidents occurring in residential institution, Migraine with aura, without mention of intractable migraine without mention of status migrainosus, Acute post-thoracotomy pain, Other specified forms of effusion, except tuberculous.
+
+============================================================
+### PATIENT 10026255 LONGITUDINAL HISTORY ###
+Patient tracked from 2200-09-17 to 2201-07-07 (2 total visits).
+
+INITIAL PRESENTATION (2200-09-17):
+The patient was first admitted for Traumatic pneumothorax without mention of open wound into thorax, Pneumonia, organism unspecified, Unspecified essential hypertension, Home accidents, Other and unspecified hyperlipidemia.
+READMISSION (2201-07-07, 280 days later):
+The patient returned to the hospital presenting with Late effects of motor vehicle accident, Tobacco use disorder, Delirium due to conditions classified elsewhere, Other acute and subacute forms of ischemic heart disease, other, Pain in limb.
+
+============================================================
+### PATIENT 10007058 LONGITUDINAL HISTORY ###
+Patient tracked from 2167-11-07 to 2167-11-07 (1 total visits).
+
+INITIAL PRESENTATION (2167-11-07):
+The patient was first admitted for Non-ST elevation (NSTEMI) myocardial infarction, Long term (current) use of aspirin, Long term (current) use of antithrombotics/antiplatelets, Dissection of abdominal aorta, Encounter for immunization.
+
+============================================================
+### PATIENT 10018845 LONGITUDINAL HISTORY ###
+Patient tracked from 2184-10-08 to 2184-10-08 (1 total visits).
+
+INITIAL PRESENTATION (2184-10-08):
+The patient was first admitted for Aphasia, Knee joint replacement, Home accidents, Other and unspecified hyperlipidemia, Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease.
+
+============================================================
+### PATIENT 10020640 LONGITUDINAL HISTORY ###
+Patient tracked from 2153-02-13 to 2153-02-13 (1 total visits).
+
+INITIAL PRESENTATION (2153-02-13):
+The patient was first admitted for Alzheimer's disease, Depressive disorder, not elsewhere classified, Hyperosmolality and/or hypernatremia, Unspecified protein-calorie malnutrition, Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled.
+
+============================================================
+### PATIENT 10021666 LONGITUDINAL HISTORY ###
+Patient tracked from 2172-03-12 to 2172-03-12 (1 total visits).
+
+INITIAL PRESENTATION (2172-03-12):
+The patient was first admitted for Dementia, unspecified, without behavioral disturbance, Hyperosmolality and/or hypernatremia, Delirium due to conditions classified elsewhere, Thrombocytopenia, unspecified, Chronic kidney disease, Stage III (moderate).
+
+============================================================
+### PATIENT 10015272 LONGITUDINAL HISTORY ###
+Patient tracked from 2137-06-12 to 2137-06-12 (1 total visits).
+
+INITIAL PRESENTATION (2137-06-12):
+The patient was first admitted for Long term (current) use of anticoagulants, Long term (current) use of aspirin, Monoclonal gammopathy, Ventricular tachycardia, Acute embolism and thrombosis of left femoral vein.
+
+============================================================
+### PATIENT 10016810 LONGITUDINAL HISTORY ###
+Patient tracked from 2185-06-16 to 2185-06-16 (1 total visits).
+
+INITIAL PRESENTATION (2185-06-16):
+The patient was first admitted for Acquired absence of organ, genital organs, Acute appendicitis with generalized peritonitis, Hypotension, unspecified, Unspecified essential hypertension, Personal history of malignant melanoma of skin.
+
+============================================================
+### PATIENT 10021938 LONGITUDINAL HISTORY ###
+Patient tracked from 2181-10-13 to 2181-10-25 (2 total visits).
+
+INITIAL PRESENTATION (2181-10-13):
+The patient was first admitted for Alcohol abuse, unspecified, Other and unspecified hyperlipidemia, Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease, Other encephalopathy, Personal history of noncompliance with medical treatment, presenting hazards to health.
+READMISSION (2181-10-25, 10 days later):
+The patient returned to the hospital presenting with Abdominal pain, unspecified site, Renal dialysis status, Blood in stool, Congestive heart failure, unspecified, Other and unspecified hyperlipidemia.
+
+============================================================
+### PATIENT 10001725 LONGITUDINAL HISTORY ###
+Patient tracked from 2110-04-11 to 2110-04-11 (1 total visits).
+
+INITIAL PRESENTATION (2110-04-11):
+The patient was first admitted for Myalgia and myositis, unspecified, Anxiety state, unspecified, Other lymphedema, Personal history of malignant neoplasm of cervix uteri, Depressive disorder, not elsewhere classified.
+
+============================================================
+### PATIENT 10001217 LONGITUDINAL HISTORY ###
+Patient tracked from 2157-11-18 to 2157-12-18 (2 total visits).
+
+INITIAL PRESENTATION (2157-11-18):
+The patient was first admitted for Unspecified essential hypertension, Intracranial abscess, Streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus, Compression of brain, Pulmonary collapse.
+READMISSION (2157-12-18, 22 days later):
+The patient returned to the hospital presenting with Intracranial abscess, Unspecified essential hypertension, Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group B, Tobacco use disorder, Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other anaerobes.
+
+============================================================
+### PATIENT 10023239 LONGITUDINAL HISTORY ###
+Patient tracked from 2137-06-19 to 2140-10-22 (3 total visits).
+
+INITIAL PRESENTATION (2137-06-19):
+The patient was first admitted for Anxiety state, unspecified, Intestinal infection due to other organism, not elsewhere classified, Acetonuria, Pneumonia, organism unspecified, Unspecified acquired hypothyroidism.
+READMISSION (2140-10-03, 1198 days later):
+The patient returned to the hospital presenting with Acute kidney failure, unspecified, Unspecified mood [affective] disorder, Anxiety disorder, unspecified, Other mechanical complication of insulin pump, initial encounter, Sarcoidosis, unspecified.
+READMISSION (2140-10-22, 14 days later):
+The patient returned to the hospital presenting with Acute kidney failure, unspecified, Sarcoidosis, unspecified, Hypothyroidism, unspecified, Long term (current) use of insulin, Epilepsy, unspecified, not intractable, without status epilepticus.
+
+============================================================
+### PATIENT 10020944 LONGITUDINAL HISTORY ###
+Patient tracked from 2131-02-27 to 2131-02-27 (1 total visits).
+
+INITIAL PRESENTATION (2131-02-27):
+The patient was first admitted for Abnormal involuntary movements, Septic shock, Hyperpotassemia, Hemorrhage of gastrointestinal tract, unspecified, Unspecified condition of brain.
+
+============================================================
+### PATIENT 10027602 LONGITUDINAL HISTORY ###
+Patient tracked from 2201-10-30 to 2201-12-11 (2 total visits).
+
+INITIAL PRESENTATION (2201-10-30):
+The patient was first admitted for Dysphagia, oropharyngeal phase, Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus], Need for prophylactic vaccination and inoculation against influenza, Unspecified essential hypertension, Cerebral edema.
+READMISSION (2201-12-11, 20 days later):
+The patient returned to the hospital presenting with Unspecified essential hypertension, Unspecified acquired hypothyroidism, Attention deficit disorder with hyperactivity, Gastrostomy status, Physical restraints status.
+
+============================================================
+### PATIENT 10032725 LONGITUDINAL HISTORY ###
+Patient tracked from 2143-02-17 to 2143-03-22 (2 total visits).
+
+INITIAL PRESENTATION (2143-02-17):
+The patient was first admitted for Secondary malignant neoplasm of adrenal gland, Other malignant neoplasm without specification of site, Antineoplastic chemotherapy induced anemia, Acute laryngitis without mention of obstruction, Hypercalcemia.
+READMISSION (2143-03-22, 5 days later):
+The patient returned to the hospital presenting with Secondary and unspecified malignant neoplasm of lymph nodes of multiple sites, Unspecified essential hypertension, Pressure ulcer, stage II, Secondary malignant neoplasm of adrenal gland, Late effects of cerebrovascular disease, hemiplegia affecting unspecified side.
+
+============================================================
+### PATIENT 10010471 LONGITUDINAL HISTORY ###
+Patient tracked from 2155-05-08 to 2155-12-02 (2 total visits).
+
+INITIAL PRESENTATION (2155-05-08):
+The patient was first admitted for Pneumonia, unspecified organism, Unspecified atrial fibrillation, Nonrheumatic mitral (valve) insufficiency, Pain in left shoulder, Awaiting organ transplant status.
+READMISSION (2155-12-02, 206 days later):
+The patient returned to the hospital presenting with Personal history of nicotine dependence, Other specified places as the place of occurrence of the external cause, Bacteremia, Dependence on renal dialysis, Unspecified place in hospital as the place of occurrence of the external cause.
+
+============================================================
+### PATIENT 10005866 LONGITUDINAL HISTORY ###
+Patient tracked from 2146-06-06 to 2149-10-01 (7 total visits).
+
+INITIAL PRESENTATION (2146-06-06):
+The patient was first admitted for Other specified peritonitis, Alcohol abuse, in remission, Portal hypertension, Tobacco use disorder, Other ascites.
+READMISSION (2148-03-10, 639 days later):
+The patient returned to the hospital presenting with Pneumonia, unspecified organism, Postprocedural hemorrhage of a musculoskeletal structure following other procedure, Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure, Alcoholic cirrhosis of liver with ascites, Unspecified severe protein-calorie malnutrition.
+READMISSION (2149-02-11, 327 days later):
+The patient returned to the hospital presenting with Acidosis, Portal hypertension, Hepatic failure, unspecified without coma, Other ascites, Viral intestinal infection, unspecified.
+READMISSION (2149-06-20, 126 days later):
+The patient returned to the hospital presenting with Secondary esophageal varices without bleeding, Unspecified viral hepatitis C without hepatic coma, Alcoholic cirrhosis of liver with ascites, Portal hypertension, Body mass index (BMI) 23.0-23.9, adult.
+READMISSION (2149-09-13, 79 days later):
+The patient returned to the hospital presenting with Secondary esophageal varices without bleeding, Alcoholic cirrhosis of liver with ascites, Portal hypertension, Partial intestinal obstruction, unspecified as to cause, Spondylosis without myelopathy or radiculopathy, sacral and sacrococcygeal region.
+READMISSION (2149-09-20, 0 days later):
+The patient returned to the hospital presenting with Generalized abdominal pain, Alcoholic cirrhosis of liver with ascites, Peritoneal adhesions (postprocedural) (postinfection), Portal hypertension, Tobacco use.
+READMISSION (2149-10-01, 5 days later):
+The patient returned to the hospital presenting with Alcoholic cirrhosis of liver with ascites, Alcohol abuse, in remission, Peritoneal adhesions (postprocedural) (postinfection), Esophagitis, unspecified, Anemia in other chronic diseases classified elsewhere.
+
+============================================================
+### PATIENT 10024043 LONGITUDINAL HISTORY ###
+Patient tracked from 2117-02-03 to 2117-04-11 (2 total visits).
+
+INITIAL PRESENTATION (2117-02-03):
+The patient was first admitted for Palpitations, Unspecified essential hypertension, Other respiratory abnormalities.
+READMISSION (2117-04-11, 66 days later):
+The patient returned to the hospital presenting with Personal history of other malignant neoplasm of skin, Personal history of colonic polyps, Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified, Arthrodesis status, Chronic kidney disease, unspecified.
+
+============================================================
+### PATIENT 10018423 LONGITUDINAL HISTORY ###
+Patient tracked from 2167-05-03 to 2167-05-03 (1 total visits).
+
+INITIAL PRESENTATION (2167-05-03):
+The patient was first admitted for Body mass index (BMI) 38.0-38.9, adult, Chronic total occlusion of coronary artery, Acute posthemorrhagic anemia, Atherosclerotic heart disease of native coronary artery with unstable angina pectoris, Pure hypercholesterolemia.
+
+============================================================
+### PATIENT 10007928 LONGITUDINAL HISTORY ###
+Patient tracked from 2129-04-05 to 2129-04-05 (1 total visits).
+
+INITIAL PRESENTATION (2129-04-05):
+The patient was first admitted for Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction, Mixed acid-base balance disorder, Tobacco use disorder, Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH], Esophagitis, unspecified.
+
+============================================================
+### PATIENT 10014078 LONGITUDINAL HISTORY ###
+Patient tracked from 2166-08-21 to 2166-08-21 (1 total visits).
+
+INITIAL PRESENTATION (2166-08-21):
+The patient was first admitted for Unspecified essential hypertension, Unspecified infectious and parasitic diseases, Other and unspecified hyperlipidemia, Encephalopathy, unspecified, Grand mal status.
+
+============================================================
+### PATIENT 10008454 LONGITUDINAL HISTORY ###
+Patient tracked from 2110-11-30 to 2110-11-30 (1 total visits).
+
+INITIAL PRESENTATION (2110-11-30):
+The patient was first admitted for Open fracture of shaft of femur, Acute edema of lung, unspecified, Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus], Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle, Injury to thoracic aorta.
+
+============================================================
+### PATIENT 10022281 LONGITUDINAL HISTORY ###
+Patient tracked from 2125-06-17 to 2125-06-17 (1 total visits).
+
+INITIAL PRESENTATION (2125-06-17):
+The patient was first admitted for Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh, Unspecified essential hypertension, Dissection of aorta, abdominal, Personal history of tobacco use, Long-term (current) use of insulin.
+
+============================================================
+### PATIENT 10038933 LONGITUDINAL HISTORY ###
+Patient tracked from 2148-09-10 to 2148-09-10 (1 total visits).
+
+INITIAL PRESENTATION (2148-09-10):
+The patient was first admitted for Pneumonitis due to inhalation of food or vomitus, Alcohol withdrawal delirium, Accidental fall on or from other stairs or steps, Unspecified essential hypertension, Candidiasis of mouth.
+
+============================================================
+### PATIENT 10016150 LONGITUDINAL HISTORY ###
+Patient tracked from 2142-05-10 to 2142-05-10 (1 total visits).
+
+INITIAL PRESENTATION (2142-05-10):
+The patient was first admitted for Aphasia, Cardiac pacemaker in situ, Unspecified hereditary and idiopathic peripheral neuropathy, Accidents occurring in residential institution, Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified.
+
+============================================================
+### PATIENT 10022041 LONGITUDINAL HISTORY ###
+Patient tracked from 2187-05-18 to 2187-05-18 (1 total visits).
+
+INITIAL PRESENTATION (2187-05-18):
+The patient was first admitted for Unspecified essential hypertension, Other and unspecified hyperlipidemia, Grand mal status, Unspecified fall, Other and unspecified alcohol dependence, unspecified.
+
+============================================================
+### PATIENT 10026406 LONGITUDINAL HISTORY ###
+Patient tracked from 2129-01-03 to 2133-03-01 (2 total visits).
+
+INITIAL PRESENTATION (2129-01-03):
+The patient was first admitted for Closed fracture of nasal bones, Alcohol withdrawal, Esophageal reflux, Tobacco use disorder, Accidents occurring in unspecified place.
+READMISSION (2133-03-01, 1516 days later):
+The patient returned to the hospital presenting with Unspecified mood [affective] disorder, Anxiety disorder, unspecified, Alcohol dependence with intoxication, unspecified, Homelessness, Alcohol dependence with withdrawal, unspecified.
+
+============================================================
+### PATIENT 10037928 LONGITUDINAL HISTORY ###
+Patient tracked from 2175-10-26 to 2183-08-04 (10 total visits).
+
+INITIAL PRESENTATION (2175-10-26):
+The patient was first admitted for Unspecified essential hypertension, Home accidents, Contusion of toe, Unspecified fall, Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury.
+READMISSION (2177-07-14, 627 days later):
+The patient returned to the hospital presenting with Acute kidney failure, unspecified, Hypovolemia, Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified, Acidosis, Diabetes with hyperosmolarity, type II or unspecified type, uncontrolled.
+READMISSION (2177-09-04, 41 days later):
+The patient returned to the hospital presenting with Acute kidney failure, unspecified, Anxiety state, unspecified, Retention of urine, unspecified, Other nonspecific findings on examination of urine, Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified.
+READMISSION (2177-12-21, 105 days later):
+The patient returned to the hospital presenting with Acute kidney failure, unspecified, Anxiety state, unspecified, Unspecified essential hypertension, Pneumonia, organism unspecified, Depressive disorder, not elsewhere classified.
+READMISSION (2178-09-28, 279 days later):
+The patient returned to the hospital presenting with Acute kidney failure, unspecified, Anxiety state, unspecified, Anemia, unspecified, Cholesteatoma of attic, Hypovolemia.
+READMISSION (2178-12-21, 79 days later):
+The patient returned to the hospital presenting with Lack of coordination, Depressive disorder, not elsewhere classified, Long-term (current) use of insulin, Esophageal reflux, Personal history of malignant neoplasm of tongue.
+READMISSION (2179-03-27, 90 days later):
+The patient returned to the hospital presenting with Depressive disorder, not elsewhere classified, Long-term (current) use of insulin, Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled, Esophageal reflux, Personal history of malignant neoplasm of tongue.
+READMISSION (2179-07-25, 111 days later):
+The patient returned to the hospital presenting with Hypovolemia, Depressive disorder, not elsewhere classified, Long-term (current) use of insulin, Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled, Hyposmolality and/or hyponatremia.
+READMISSION (2182-04-29, 1005 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, Unspecified acute appendicitis, Anxiety disorder, unspecified, Low back pain, Family history of malignant neoplasm of other genital organs.
+READMISSION (2183-08-04, 457 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, Anxiety disorder, unspecified, Left upper quadrant pain, Personal history of malignant neoplasm of tongue, Fracture of one rib, left side, initial encounter for closed fracture.
+
+============================================================
+### PATIENT 10029484 LONGITUDINAL HISTORY ###
+Patient tracked from 2160-11-08 to 2160-11-08 (1 total visits).
+
+INITIAL PRESENTATION (2160-11-08):
+The patient was first admitted for Acute kidney failure, unspecified, Intestinal infection due to other organism, not elsewhere classified, Unspecified essential hypertension, Percutaneous transluminal coronary angioplasty status, Other and unspecified hyperlipidemia.
+
+============================================================
+### PATIENT 10012853 LONGITUDINAL HISTORY ###
+Patient tracked from 2175-04-05 to 2177-11-03 (6 total visits).
+
+INITIAL PRESENTATION (2175-04-05):
+The patient was first admitted for Acute cor pulmonale, Swelling, mass, or lump in head and neck, Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified, Dizziness and giddiness, Congestive heart failure, unspecified.
+READMISSION (2176-06-06, 423 days later):
+The patient returned to the hospital presenting with Tobacco use disorder, Osteoporosis, unspecified, Chronic kidney disease, Stage III (moderate), Neurogenic bladder NOS, Obesity, unspecified.
+READMISSION (2176-08-11, 63 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, Long term (current) use of anticoagulants, Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease, Urinary tract infection, site not specified, Chronic kidney disease, unspecified.
+READMISSION (2176-11-25, 106 days later):
+The patient returned to the hospital presenting with Type 2 diabetes mellitus without complications, Abdominal aortic aneurysm, without rupture, Body mass index (BMI) 29.0-29.9, adult, Acute and chronic respiratory failure with hypercapnia, Nicotine dependence, cigarettes, uncomplicated.
+READMISSION (2177-02-11, 69 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, Long term (current) use of anticoagulants, Paroxysmal atrial fibrillation, Other secondary pulmonary hypertension, Type 2 diabetes mellitus without complications.
+READMISSION (2177-11-03, 263 days later):
+The patient returned to the hospital presenting with Nonrheumatic mitral (valve) insufficiency, Hyperlipidemia, unspecified, Paroxysmal atrial fibrillation, Essential (primary) hypertension, Long term (current) use of antithrombotics/antiplatelets.
+
+============================================================
+### PATIENT 10019777 LONGITUDINAL HISTORY ###
+Patient tracked from 2187-02-10 to 2187-02-10 (1 total visits).
+
+INITIAL PRESENTATION (2187-02-10):
+The patient was first admitted for Dependence on respirator, status, Alcohol abuse, in remission, Depressive disorder, not elsewhere classified, Early satiety, Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH].
+
+============================================================
+### PATIENT 10018501 LONGITUDINAL HISTORY ###
+Patient tracked from 2141-07-30 to 2141-07-30 (1 total visits).
+
+INITIAL PRESENTATION (2141-07-30):
+The patient was first admitted for Personal history of other malignant neoplasm of skin, Unspecified essential hypertension, Street and highway accidents, Closed fracture of lumbar vertebra without mention of spinal cord injury, Other motor vehicle traffic accident involving collision on the highway injuring driver of motor vehicle other than motorcycle.
+
+============================================================
+### PATIENT 10004422 LONGITUDINAL HISTORY ###
+Patient tracked from 2111-01-15 to 2111-01-15 (1 total visits).
+
+INITIAL PRESENTATION (2111-01-15):
+The patient was first admitted for Intermediate coronary syndrome, Alcohol withdrawal delirium, Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation, Accidents occurring in residential institution, Percutaneous transluminal coronary angioplasty status.
+
+============================================================
+### PATIENT 10017492 LONGITUDINAL HISTORY ###
+Patient tracked from 2114-03-19 to 2116-06-26 (2 total visits).
+
+INITIAL PRESENTATION (2114-03-19):
+The patient was first admitted for Aphasia, Anemia, unspecified, Unspecified essential hypertension, Other symbolic dysfunction, Unspecified psychosis.
+READMISSION (2116-06-26, 815 days later):
+The patient returned to the hospital presenting with Hyperosmolality and/or hypernatremia, Retention of urine, unspecified, Other opiates and related narcotics causing adverse effects in therapeutic use, Intracerebral hemorrhage, Late effects of cerebrovascular disease, aphasia.
+
+============================================================
+### PATIENT 10038999 LONGITUDINAL HISTORY ###
+Patient tracked from 2131-05-22 to 2132-05-17 (2 total visits).
+
+INITIAL PRESENTATION (2131-05-22):
+The patient was first admitted for Pneumonia, unspecified organism, Hyperkalemia, Anemia, unspecified, Pleural effusion in other conditions classified elsewhere, Other specified coagulation defects.
+READMISSION (2132-05-17, 348 days later):
+The patient returned to the hospital presenting with Legal blindness, as defined in USA, Unspecified mental disorder due to known physiological condition, Unspecified place in other specified residential institution as the place of occurrence of the external cause, Displaced comminuted fracture of shaft of right tibia, initial encounter for closed fracture, Epilepsy, unspecified, not intractable, without status epilepticus.
+
+============================================================
+### PATIENT 10009049 LONGITUDINAL HISTORY ###
+Patient tracked from 2174-05-26 to 2174-05-26 (1 total visits).
+
+INITIAL PRESENTATION (2174-05-26):
+The patient was first admitted for Acute kidney failure, unspecified, Anemia, unspecified, Pleurisy without mention of effusion or current tuberculosis, Bacterial pneumonia, unspecified, Abnormal coagulation profile.
+
+============================================================
+### PATIENT 10016742 LONGITUDINAL HISTORY ###
+Patient tracked from 2178-07-03 to 2178-07-22 (3 total visits).
+
+INITIAL PRESENTATION (2178-07-03):
+The patient was first admitted for Nephropathy induced by other drugs, medicaments and biological substances, Patient room in hospital as the place of occurrence of the external cause, Type 2 diabetes mellitus without complications, Body mass index (BMI) 29.0-29.9, adult, Dependence on respirator [ventilator] status.
+READMISSION (2178-07-13, 4 days later):
+The patient returned to the hospital presenting with Non-ST elevation (NSTEMI) myocardial infarction, Unspecified convulsions, Hypotension, unspecified, Ventilator associated pneumonia, Altered mental status, unspecified.
+READMISSION (2178-07-22, 6 days later):
+The patient returned to the hospital presenting with Anemia, unspecified, Tracheostomy status, Type 2 diabetes mellitus without complications, Long term (current) use of insulin, Amyotrophic lateral sclerosis.
+
+============================================================
+### PATIENT 10004457 LONGITUDINAL HISTORY ###
+Patient tracked from 2140-09-17 to 2148-09-14 (6 total visits).
+
+INITIAL PRESENTATION (2140-09-17):
+The patient was first admitted for Unspecified essential hypertension, Personal history of irradiation, presenting hazards to health, Personal history of antineoplastic chemotherapy, Asthma, unspecified type, unspecified, Other and unspecified hyperlipidemia.
+READMISSION (2141-08-12, 328 days later):
+The patient returned to the hospital presenting with Acquired absence of organ, genital organs, Percutaneous transluminal coronary angioplasty status, Personal history of irradiation, presenting hazards to health, Asthma, unspecified type, unspecified, Personal history of antineoplastic chemotherapy.
+READMISSION (2141-12-17, 125 days later):
+The patient returned to the hospital presenting with Percutaneous transluminal coronary angioplasty status, Chronic total occlusion of coronary artery, Personal history of irradiation, presenting hazards to health, Other and unspecified hyperlipidemia, Personal history of other lymphatic and hematopoietic neoplasms.
+READMISSION (2143-03-09, 442 days later):
+The patient returned to the hospital presenting with Aortocoronary bypass status, Percutaneous transluminal coronary angioplasty status, Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites, Atrial flutter, Personal history of malignant neoplasm of prostate.
+READMISSION (2147-12-19, 1744 days later):
+The patient returned to the hospital presenting with Obstructive sleep apnea (adult) (pediatric), Hyperlipidemia, unspecified, Presence of coronary angioplasty implant and graft, Rheumatic disorders of both mitral and tricuspid valves, Personal history of Hodgkin lymphoma.
+READMISSION (2148-09-14, 267 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, Presence of coronary angioplasty implant and graft, Personal history of nicotine dependence, Long term (current) use of antithrombotics/antiplatelets, Unspecified asthma, uncomplicated.
+
+============================================================
+### PATIENT 10029291 LONGITUDINAL HISTORY ###
+Patient tracked from 2123-02-20 to 2123-02-20 (1 total visits).
+
+INITIAL PRESENTATION (2123-02-20):
+The patient was first admitted for Unspecified mood [affective] disorder, Food in respiratory tract, part unspecified causing asphyxiation, initial encounter, Other shock, Other place in hospital as the place of occurrence of the external cause, Patient room in hospital as the place of occurrence of the external cause.
+
+============================================================
+### PATIENT 10004720 LONGITUDINAL HISTORY ###
+Patient tracked from 2186-11-12 to 2186-11-12 (1 total visits).
+
+INITIAL PRESENTATION (2186-11-12):
+The patient was first admitted for Pneumonitis due to inhalation of food and vomit, Other place in hospital as the place of occurrence of the external cause, Fall on same level, unspecified, subsequent encounter, Anemia in other chronic diseases classified elsewhere, Do not resuscitate.
+
+============================================================
+### PATIENT 10019568 LONGITUDINAL HISTORY ###
+Patient tracked from 2120-01-30 to 2120-01-30 (1 total visits).
+
+INITIAL PRESENTATION (2120-01-30):
+The patient was first admitted for Alcohol abuse, unspecified, Accidental fall on or from other stairs or steps, Unspecified essential hypertension, Home accidents, Traumatic pneumothorax without mention of open wound into thorax.
+
+============================================================
+### PATIENT 10010867 LONGITUDINAL HISTORY ###
+Patient tracked from 2147-12-30 to 2148-03-07 (3 total visits).
+
+INITIAL PRESENTATION (2147-12-30):
+The patient was first admitted for Unspecified displaced fracture of seventh cervical vertebra, initial encounter for closed fracture, Traumatic subarachnoid hemorrhage without loss of consciousness, initial encounter, Unspecified fracture of fourth thoracic vertebra, initial encounter for closed fracture, Retention of urine, unspecified, Unspecified place in hospital as the place of occurrence of the external cause.
+READMISSION (2148-01-25, 14 days later):
+The patient returned to the hospital presenting with Body mass index (BMI) 33.0-33.9, adult, Unspecified fracture of T5-T6 vertebra, initial encounter for closed fracture, Arthrodesis status, Unspecified asthma, uncomplicated, Car occupant (driver) (passenger) injured in unspecified traffic accident, initial encounter.
+READMISSION (2148-03-07, 37 days later):
+The patient returned to the hospital presenting with Cannabis abuse, uncomplicated, Pain in right shoulder, Driver of other special all-terrain or other off-road motor vehicle injured in traffic accident, sequela, Arthrodesis status, Other paved roadways as the place of occurrence of the external cause.
+
+============================================================
+### PATIENT 10025463 LONGITUDINAL HISTORY ###
+Patient tracked from 2136-10-31 to 2137-10-08 (2 total visits).
+
+INITIAL PRESENTATION (2136-10-31):
+The patient was first admitted for Diverticulosis of colon (without mention of hemorrhage), Unspecified essential hypertension, Other and unspecified hyperlipidemia, Atrial fibrillation, Personal history of tobacco use.
+READMISSION (2137-10-08, 340 days later):
+The patient returned to the hospital presenting with Obstructive hydrocephalus, Unspecified essential hypertension, Unspecified hemorrhoids with other complication, Other and unspecified hyperlipidemia, Atrial fibrillation.
+
+============================================================
+### PATIENT 10002428 LONGITUDINAL HISTORY ###
+Patient tracked from 2155-07-14 to 2160-07-15 (7 total visits).
+
+INITIAL PRESENTATION (2155-07-14):
+The patient was first admitted for Anemia, unspecified, Unspecified essential hypertension, Unspecified acquired hypothyroidism, Sicca syndrome, Urinary tract infection, site not specified.
+READMISSION (2156-04-12, 271 days later):
+The patient returned to the hospital presenting with Acute edema of lung, unspecified, Diverticulosis of colon (without mention of hemorrhage), Sicca syndrome, Septic shock, Paralytic ileus.
+READMISSION (2156-04-30, 1 days later):
+The patient returned to the hospital presenting with Blood in stool, Drug-induced delirium, Anemia, unspecified, Unspecified essential hypertension, Unspecified acquired hypothyroidism.
+READMISSION (2156-05-11, 7 days later):
+The patient returned to the hospital presenting with Examination of participant in clinical trial, Anemia, unspecified, Unspecified essential hypertension, Unspecified acquired hypothyroidism, Congestive heart failure, unspecified.
+READMISSION (2157-07-16, 419 days later):
+The patient returned to the hospital presenting with Personal history of pneumonia (recurrent), Other closed transcervical fracture of neck of femur, Unspecified essential hypertension, Sicca syndrome, Other and unspecified hyperlipidemia.
+READMISSION (2160-04-14, 1000 days later):
+The patient returned to the hospital presenting with Nonrheumatic mitral (valve) insufficiency, Age-related osteoporosis with current pathological fracture, vertebra(e), initial encounter for fracture, Do not resuscitate, Procedure and treatment not carried out because of other contraindication, Sicca syndrome, unspecified.
+READMISSION (2160-07-15, 88 days later):
+The patient returned to the hospital presenting with Visual discomfort, bilateral, Dry eye syndrome of bilateral lacrimal glands, Other cervical disc degeneration, unspecified cervical region, Nontoxic goiter, unspecified, Collapsed vertebra, not elsewhere classified, lumbar region, initial encounter for fracture.
+
+============================================================
+### PATIENT 10007818 LONGITUDINAL HISTORY ###
+Patient tracked from 2146-06-10 to 2146-06-10 (1 total visits).
+
+INITIAL PRESENTATION (2146-06-10):
+The patient was first admitted for Acquired coagulation factor deficiency, Atelectasis, Type 2 diabetes mellitus without complications, Other postprocedural shock, initial encounter, Adult failure to thrive.
+
+============================================================
+### PATIENT 10031757 LONGITUDINAL HISTORY ###
+Patient tracked from 2137-10-12 to 2137-10-12 (1 total visits).
+
+INITIAL PRESENTATION (2137-10-12):
+The patient was first admitted for Depressive disorder, not elsewhere classified, Paralytic ileus, Septic shock, Thrombocytopenia, unspecified, Accidental puncture or laceration during a procedure, not elsewhere classified.
+
+============================================================
+### PATIENT 10039997 LONGITUDINAL HISTORY ###
+Patient tracked from 2134-09-07 to 2137-03-15 (3 total visits).
+
+INITIAL PRESENTATION (2134-09-07):
+The patient was first admitted for Other musculoskeletal symptoms referable to limbs, Obstructive sleep apnea (adult)(pediatric), Unspecified essential hypertension, Body Mass Index 32.0-32.9, adult, Other and unspecified hyperlipidemia.
+READMISSION (2135-11-07, 421 days later):
+The patient returned to the hospital presenting with Post-traumatic stress disorder, unspecified, Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side, Manic episode, unspecified, Nicotine dependence, cigarettes, uncomplicated, Essential (primary) hypertension.
+READMISSION (2137-03-15, 494 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, History of falling, Paroxysmal atrial fibrillation, Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease, Hemiplegia, unspecified affecting right dominant side.
+
+============================================================
+### PATIENT 10020306 LONGITUDINAL HISTORY ###
+Patient tracked from 2129-10-29 to 2135-01-15 (3 total visits).
+
+INITIAL PRESENTATION (2129-10-29):
+The patient was first admitted for Obstructive sleep apnea (adult)(pediatric), Unspecified essential hypertension, Family history of malignant neoplasm of breast, Other and unspecified hyperlipidemia, Chronic ischemic heart disease, unspecified.
+READMISSION (2133-05-05, 1282 days later):
+The patient returned to the hospital presenting with Chronic pulmonary edema, Type 2 diabetes mellitus without complications, Long term (current) use of insulin, Atherosclerotic heart disease of native coronary artery without angina pectoris, Heart failure, unspecified.
+READMISSION (2135-01-15, 620 days later):
+The patient returned to the hospital presenting with Dysphagia following cerebral infarction, Orthostatic hypotension, Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side, Gastro-esophageal reflux disease without esophagitis, Acute kidney failure with tubular necrosis.
+
+============================================================
+### PATIENT 10018328 LONGITUDINAL HISTORY ###
+Patient tracked from 2154-02-05 to 2154-04-24 (2 total visits).
+
+INITIAL PRESENTATION (2154-02-05):
+The patient was first admitted for Collapsed vertebra, not elsewhere classified, thoracic region, initial encounter for fracture, Multiple fractures of ribs, left side, initial encounter for closed fracture, Supermarket, store or market as the place of occurrence of the external cause, Urinary tract infection, site not specified, Insomnia, unspecified.
+READMISSION (2154-04-24, 73 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, Aphasia, Other reconstructive surgery as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure, Postprocedural heart failure following other surgery, Postprocedural hemorrhage of a circulatory system organ or structure following other circulatory system procedure.
+
+============================================================
+### PATIENT 10020187 LONGITUDINAL HISTORY ###
+Patient tracked from 2169-01-15 to 2170-02-24 (2 total visits).
+
+INITIAL PRESENTATION (2169-01-15):
+The patient was first admitted for Hyperlipidemia, unspecified, Atherosclerotic heart disease of native coronary artery without angina pectoris, Pure hypercholesterolemia, Essential (primary) hypertension, Nontraumatic subarachnoid hemorrhage from left posterior communicating artery.
+READMISSION (2170-02-24, 395 days later):
+The patient returned to the hospital presenting with Hyperlipidemia, unspecified, Unilateral primary osteoarthritis, left knee, Barrett's esophagus without dysplasia, Presence of right artificial knee joint, Long term (current) use of antithrombotics/antiplatelets.
+
+============================================================
+### PATIENT 10005909 LONGITUDINAL HISTORY ###
+Patient tracked from 2144-10-28 to 2144-10-28 (1 total visits).
+
+INITIAL PRESENTATION (2144-10-28):
+The patient was first admitted for Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure, Compression of vein, Operating room of hospital as the place of occurrence of the external cause, Accidental puncture and laceration of a circulatory system organ or structure during a circulatory system procedure, Acute embolism and thrombosis of left iliac vein.
+
+============================================================
+### PATIENT 10011398 LONGITUDINAL HISTORY ###
+Patient tracked from 2146-12-15 to 2146-12-15 (1 total visits).
+
+INITIAL PRESENTATION (2146-12-15):
+The patient was first admitted for Personal history of urinary calculi, Personal history of colonic polyps, Intermediate coronary syndrome, Unspecified essential hypertension, Other and unspecified hyperlipidemia.
+
+============================================================
+### PATIENT 10039831 LONGITUDINAL HISTORY ###
+Patient tracked from 2115-12-28 to 2115-12-28 (1 total visits).
+
+INITIAL PRESENTATION (2115-12-28):
+The patient was first admitted for Personal history of malignant neoplasm of other gastrointestinal tract, Tobacco use disorder, Embolism and thrombosis of other specified artery, Accidental puncture or laceration during a procedure, not elsewhere classified, Accidental cut, puncture, perforation or hemorrhage during surgical operation.
+
+============================================================
+### PATIENT 10003046 LONGITUDINAL HISTORY ###
+Patient tracked from 2154-01-02 to 2154-01-02 (1 total visits).
+
+INITIAL PRESENTATION (2154-01-02):
+The patient was first admitted for Acidosis, Esophageal reflux, Malignant neoplasm of lower third of esophagus, Barrett's esophagus.
+
+============================================================
+### PATIENT 10022017 LONGITUDINAL HISTORY ###
+Patient tracked from 2189-09-10 to 2189-09-10 (1 total visits).
+
+INITIAL PRESENTATION (2189-09-10):
+The patient was first admitted for Hyperlipidemia, unspecified, Hypotension, unspecified, Surgical operation with anastomosis, bypass or graft as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure, Ulcerative colitis, unspecified, without complications, Acute posthemorrhagic anemia.
+
+============================================================
+### PATIENT 10025612 LONGITUDINAL HISTORY ###
+Patient tracked from 2125-09-25 to 2125-09-25 (1 total visits).
+
+INITIAL PRESENTATION (2125-09-25):
+The patient was first admitted for Macular degeneration (senile), unspecified, Malignant neoplasm of main bronchus, Accidents occurring in residential institution, Family history of malignant neoplasm of breast, Unspecified acquired hypothyroidism.
+
+============================================================
+### PATIENT 10008287 LONGITUDINAL HISTORY ###
+Patient tracked from 2145-09-28 to 2145-09-28 (1 total visits).
+
+INITIAL PRESENTATION (2145-09-28):
+The patient was first admitted for Hemangioma of intracranial structures, Epilepsy, unspecified, not intractable, without status epilepticus, Personal history of malignant neoplasm of thyroid.
+
+============================================================
+### PATIENT 10022880 LONGITUDINAL HISTORY ###
+Patient tracked from 2177-03-12 to 2177-03-12 (1 total visits).
+
+INITIAL PRESENTATION (2177-03-12):
+The patient was first admitted for Spinal stenosis, lumbar region, with neurogenic claudication, Spondylolisthesis, Atrial fibrillation, Long-term (current) use of anticoagulants, Scoliosis [and kyphoscoliosis], idiopathic.
+
+============================================================

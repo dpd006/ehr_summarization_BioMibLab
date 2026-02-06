@@ -1,0 +1,6 @@
+data/
+output/
+*.csv
+*.csv.gz
+*.exe
+__pycache__/

@@ -1,0 +1,15 @@
+### PATIENT SUMMARY: 10004235 ###
+
+Patient 10004235 had 3 hospital admission(s).
+
+ADMISSION 1 (2196-02-24):
+The patient was admitted to the hospital. Primary clinical findings included Atrial fibrillation, Acute respiratory failure, Other anomalies of gallbladder, bile ducts, and liver, Other primary cardiomyopathies, Gout, unspecified, among others.
+Treatment included prescriptions for Insulin, Bag, Lisinopril, Warfarin, CefePIME and other medications.
+
+ADMISSION 2 (2196-06-14):
+The patient was admitted to the hospital. Primary clinical findings included Acute and chronic cholecystitis, Body Mass Index 35.0-35.9, adult, Other specified cardiac dysrhythmias, Obesity, unspecified, Gout, unspecified, among others.
+Treatment included prescriptions for OxycoDONE (Immediate Release) , Warfarin, Heparin, Metoprolol Tartrate, Pantoprazole and other medications.
+
+ADMISSION 3 (2196-06-20):
+The patient was admitted to the hospital. Primary clinical findings included Autistic disorder, current or active state, Atrial fibrillation, Long-term (current) use of anticoagulants, Personal history of sudden cardiac arrest, Postprocedural fever, among others.
+Treatment included prescriptions for Vial, Warfarin, Heparin, Pantoprazole, Vancomycin and other medications.
