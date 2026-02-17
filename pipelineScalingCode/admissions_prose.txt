@@ -1,0 +1,550 @@
+Patient 10004235 was admitted on 2196-02-24 14:38:00 and discharged on 2196-03-04 14:02:00. Their hospital admission ID was 24181354. The admission type was urgent. They arrived via transfer from hospital and were discharged to skilled nursing facility. Insurance: Medicaid, Language: ENGLISH, Marital status: single. Race: BLACK/CAPE VERDEAN. ED registration: 2196-02-24 12:15:00, ED out: 2196-02-24 17:07:00. Hospital expire flag: 0.
+
+Patient 10009628 was admitted on 2153-09-17 17:08:00 and discharged on 2153-09-25 13:20:00. Their hospital admission ID was 25926192. The admission type was urgent. They arrived via transfer from hospital and were discharged to home health care. Insurance: Medicaid, Language: ?, Marital status: married. Race: HISPANIC/LATINO - PUERTO RICAN. Hospital expire flag: 0.
+
+Patient 10018081 was admitted on 2134-08-18 02:02:00 and discharged on 2134-08-23 19:35:00. Their hospital admission ID was 23983182. The admission type was urgent. They arrived via transfer from hospital and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2134-08-17 16:24:00, ED out: 2134-08-18 03:15:00. Hospital expire flag: 0.
+
+Patient 10006053 was admitted on 2111-11-13 23:39:00 and discharged on 2111-11-15 17:20:00. Their hospital admission ID was 22942076. They died on 2111-11-15 17:20:00. The admission type was urgent. They arrived via transfer from hospital and were discharged to died. Insurance: Medicaid, Language: ENGLISH. Race: UNKNOWN. Hospital expire flag: 1.
+
+Patient 10031404 was admitted on 2113-08-04 18:46:00 and discharged on 2113-08-06 20:57:00. Their hospital admission ID was 21606243. The admission type was urgent. They arrived via transfer from hospital and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10005817 was admitted on 2132-12-12 01:43:00 and discharged on 2132-12-20 15:04:00. Their hospital admission ID was 20626031. The admission type was urgent. They arrived via transfer from hospital and were discharged to home health care. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10019385 was admitted on 2180-02-15 20:28:00 and discharged on 2180-02-25 13:45:00. Their hospital admission ID was 20297618. The admission type was urgent. They arrived via transfer from hospital and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10002495 was admitted on 2141-05-22 20:17:00 and discharged on 2141-05-29 17:41:00. Their hospital admission ID was 24982426. The admission type was urgent. They arrived via transfer from hospital and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: UNKNOWN. Hospital expire flag: 0.
+
+Patient 10038081 was admitted on 2115-09-27 20:40:00 and discharged on 2115-10-12 00:00:00. Their hospital admission ID was 20755971. They died on 2115-10-12 22:20:00. The admission type was urgent. They arrived via transfer from hospital and were discharged to died. Insurance: Other, Language: ?, Marital status: single. Race: UNKNOWN. Hospital expire flag: 1.
+
+Patient 10019917 was admitted on 2182-01-07 23:25:00 and discharged on 2182-01-10 16:52:00. Their hospital admission ID was 22585261. The admission type was urgent. They arrived via transfer from hospital and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: single. Race: OTHER. Hospital expire flag: 0.
+
+Patient 10037861 was admitted on 2115-10-09 20:28:00 and discharged on 2115-10-18 16:50:00. Their hospital admission ID was 24256866. The admission type was urgent. They arrived via transfer from hospital and were discharged to home health care. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: UNKNOWN. Hospital expire flag: 0.
+
+Patient 10026354 was admitted on 2119-10-26 07:11:00 and discharged on 2119-11-06 12:30:00. Their hospital admission ID was 24547356. The admission type was urgent. They arrived via transfer from hospital and were discharged to skilled nursing facility. Insurance: Other, Language: ?. Race: WHITE. ED registration: 2119-10-26 06:00:00, ED out: 2119-10-26 06:37:00. Hospital expire flag: 0.
+
+Patient 10015860 was admitted on 2192-09-24 09:19:00 and discharged on 2192-09-28 19:52:00. Their hospital admission ID was 26352758. The admission type was urgent. They arrived via transfer from skilled nursing facility and were discharged to skilled nursing facility. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2192-09-23 22:43:00, ED out: 2192-09-24 09:38:00. Hospital expire flag: 0.
+
+Patient 10020740 was admitted on 2150-03-11 15:34:00 and discharged on 2150-04-25 13:50:00. Their hospital admission ID was 23831430. The admission type was urgent. They arrived via transfer from hospital and were discharged to skilled nursing facility. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10012552 was admitted on 2140-03-22 17:18:00 and discharged on 2140-03-30 14:10:00. Their hospital admission ID was 27089790. The admission type was urgent. They arrived via transfer from hospital and were discharged to home health care. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: UNKNOWN. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2147-04-26 16:44:00 and discharged on 2147-04-29 15:30:00. Their hospital admission ID was 28335091. The admission type was urgent. They arrived via transfer from hospital and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2148-06-30 01:09:00 and discharged on 2148-07-13 19:35:00. Their hospital admission ID was 27487226. The admission type was urgent. They arrived via transfer from hospital and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2148-06-29 21:06:00, ED out: 2148-06-30 02:27:00. Hospital expire flag: 0.
+
+Patient 10039708 was admitted on 2142-03-26 06:08:00 and discharged on 2142-04-11 21:00:00. Their hospital admission ID was 25864431. The admission type was urgent. They arrived via transfer from hospital and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2142-03-25 22:22:00, ED out: 2142-03-26 08:08:00. Hospital expire flag: 0.
+
+Patient 10000032 was admitted on 2180-05-06 22:23:00 and discharged on 2180-05-07 17:15:00. Their hospital admission ID was 22595853. The admission type was urgent. They arrived via transfer from hospital and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2180-05-06 19:17:00, ED out: 2180-05-06 23:30:00. Hospital expire flag: 0.
+
+Patient 10020786 was admitted on 2189-06-09 12:45:00 and discharged on 2189-06-13 17:20:00. Their hospital admission ID was 23488445. The admission type was urgent. They arrived via transfer from hospital and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10027445 was admitted on 2145-12-08 19:47:00 and discharged on 2145-12-19 14:36:00. Their hospital admission ID was 27488741. The admission type was urgent. They arrived via transfer from hospital and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10027445 was admitted on 2142-08-27 21:05:00 and discharged on 2142-09-05 17:33:00. Their hospital admission ID was 29163082. The admission type was urgent. They arrived via transfer from hospital and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10015931 was admitted on 2177-03-24 21:47:00 and discharged on 2177-03-29 14:15:00. Their hospital admission ID was 22130791. They died on 2177-03-29 14:15:00. The admission type was urgent. They arrived via transfer from hospital and were discharged to died. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 1.
+
+Patient 10036156 was admitted on 2157-07-01 04:52:00 and discharged on 2157-07-03 15:08:00. Their hospital admission ID was 28019404. The admission type was urgent. They arrived via transfer from hospital and were discharged to home. Insurance: Other, Language: ENGLISH. Race: UNKNOWN. Hospital expire flag: 0.
+
+Patient 10021312 was admitted on 2113-08-16 00:32:00 and discharged on 2113-08-18 17:35:00. Their hospital admission ID was 25020332. The admission type was urgent. They arrived via transfer from hospital and were discharged to home. Insurance: Other, Language: ENGLISH. Race: UNKNOWN. Hospital expire flag: 0.
+
+Patient 10021312 was admitted on 2113-09-12 14:42:00 and discharged on 2113-09-20 18:40:00. Their hospital admission ID was 28829452. The admission type was urgent. They arrived via transfer from hospital and were discharged to acute hospital. Insurance: Other, Language: ENGLISH. Race: UNKNOWN. Hospital expire flag: 0.
+
+Patient 10003400 was admitted on 2137-08-04 00:07:00 and discharged on 2137-09-02 17:05:00. Their hospital admission ID was 23559586. They died on 2137-09-02 17:05:00. The admission type was urgent. They arrived via transfer from hospital and were discharged to died. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: BLACK/AFRICAN AMERICAN. Hospital expire flag: 1.
+
+Patient 10003400 was admitted on 2137-02-24 10:00:00 and discharged on 2137-03-19 15:45:00. Their hospital admission ID was 20214994. The admission type was urgent. They arrived via transfer from skilled nursing facility and were discharged to chronic/long term acute care. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: BLACK/AFRICAN AMERICAN. Hospital expire flag: 0.
+
+Patient 10023117 was admitted on 2174-06-07 23:25:00 and discharged on 2174-06-12 15:55:00. Their hospital admission ID was 24244087. The admission type was urgent. They arrived via transfer from hospital and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2174-06-07 16:24:00, ED out: 2174-06-08 01:02:00. Hospital expire flag: 0.
+
+Patient 10038992 was admitted on 2185-11-02 18:26:00 and discharged on 2185-11-08 16:22:00. Their hospital admission ID was 22797747. The admission type was urgent. They arrived via transfer from hospital and were discharged to home health care. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: UNKNOWN. Hospital expire flag: 0.
+
+Patient 10037975 was admitted on 2185-01-17 19:11:00 and discharged on 2185-01-22 14:25:00. Their hospital admission ID was 27617929. They died on 2185-01-22 14:25:00. The admission type was urgent. They arrived via transfer from hospital and were discharged to died. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: UNKNOWN. Hospital expire flag: 1.
+
+Patient 10035185 was admitted on 2120-05-12 12:53:00 and discharged on 2120-05-17 16:00:00. Their hospital admission ID was 22580999. The admission type was urgent. They arrived via transfer from hospital and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10002930 was admitted on 2197-04-08 19:37:00 and discharged on 2197-04-15 12:01:00. Their hospital admission ID was 28301173. The admission type was urgent. They arrived via internal transfer to or from psych and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. Hospital expire flag: 0.
+
+Patient 10002930 was admitted on 2198-04-22 16:17:00 and discharged on 2198-05-04 13:20:00. Their hospital admission ID was 22733922. The admission type was urgent. They arrived via internal transfer to or from psych and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. Hospital expire flag: 0.
+
+Patient 10007795 was admitted on 2136-04-10 20:33:00 and discharged on 2136-05-02 16:35:00. Their hospital admission ID was 28477357. The admission type was urgent. They arrived via transfer from hospital and were discharged to chronic/long term acute care. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10007795 was admitted on 2136-05-04 20:20:00 and discharged on 2136-05-12 17:12:00. Their hospital admission ID was 25135483. The admission type was urgent. They arrived via transfer from hospital and were discharged to rehab. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10004733 was admitted on 2174-12-04 11:28:00 and discharged on 2174-12-27 14:00:00. Their hospital admission ID was 27411876. The admission type was urgent. They arrived via transfer from hospital and were discharged to home health care. Insurance: Medicaid, Language: ENGLISH, Marital status: single. Race: UNKNOWN. Hospital expire flag: 0.
+
+Patient 10021118 was admitted on 2161-11-15 20:10:00 and discharged on 2161-11-23 16:00:00. Their hospital admission ID was 24490144. The admission type was urgent. They arrived via transfer from hospital and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10006580 was admitted on 2137-08-10 11:00:00 and discharged on 2137-08-15 13:25:00. Their hospital admission ID was 24159665. The admission type was elective. They arrived via physician referral and were discharged to home. Insurance: Medicaid, Language: ?, Marital status: married. Race: HISPANIC/LATINO - SALVADORAN. Hospital expire flag: 0.
+
+Patient 10023771 was admitted on 2113-08-25 07:15:00 and discharged on 2113-08-30 14:15:00. Their hospital admission ID was 20044587. The admission type was elective. They arrived via physician referral and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10005348 was admitted on 2128-09-05 08:30:00 and discharged on 2128-09-12 16:55:00. Their hospital admission ID was 29496232. The admission type was elective. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10019172 was admitted on 2118-11-15 14:00:00 and discharged on 2118-11-21 18:31:00. Their hospital admission ID was 24997044. The admission type was elective. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH. Race: UNABLE TO OBTAIN. Hospital expire flag: 0.
+
+Patient 10019172 was admitted on 2118-10-08 14:00:00 and discharged on 2118-10-11 20:15:00. Their hospital admission ID was 21540783. The admission type was elective. They arrived via physician referral and were discharged to home. Insurance: Other, Language: ENGLISH. Race: UNABLE TO OBTAIN. Hospital expire flag: 0.
+
+Patient 10021487 was admitted on 2117-07-16 07:15:00 and discharged on 2117-07-25 12:34:00. Their hospital admission ID was 20429160. The admission type was elective. They arrived via physician referral and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10013049 was admitted on 2114-06-20 10:15:00 and discharged on 2114-06-24 16:45:00. Their hospital admission ID was 22675517. The admission type was elective. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10035631 was admitted on 2112-12-04 00:00:00 and discharged on 2112-12-27 16:24:00. Their hospital admission ID was 20385771. The admission type was elective. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10035631 was admitted on 2112-10-22 00:00:00 and discharged on 2112-10-28 12:16:00. Their hospital admission ID was 24912093. The admission type was elective. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: married. Race: UNKNOWN. Hospital expire flag: 0.
+
+Patient 10019003 was admitted on 2155-10-17 18:01:00 and discharged on 2155-11-03 18:00:00. Their hospital admission ID was 26226543. The admission type was elective. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10019003 was admitted on 2148-12-21 07:15:00 and discharged on 2148-12-24 17:10:00. Their hospital admission ID was 28003918. The admission type was elective. They arrived via physician referral and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10009035 was admitted on 2161-04-27 07:15:00 and discharged on 2161-05-01 13:45:00. Their hospital admission ID was 28324362. The admission type was elective. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10040025 was admitted on 2147-12-29 19:36:00 and discharged on 2148-01-09 17:38:00. Their hospital admission ID was 25933959. The admission type was elective. They arrived via physician referral and were discharged to skilled nursing facility. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10014729 was admitted on 2125-03-19 16:58:00 and discharged on 2125-03-28 13:37:00. Their hospital admission ID was 23300884. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE - OTHER EUROPEAN. ED registration: 2125-03-19 12:36:00, ED out: 2125-03-19 18:45:00. Hospital expire flag: 0.
+
+Patient 10026255 was admitted on 2200-09-17 22:53:00 and discharged on 2200-09-29 18:25:00. Their hospital admission ID was 20437651. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2200-09-17 18:38:00, ED out: 2200-09-18 00:57:00. Hospital expire flag: 0.
+
+Patient 10026255 was admitted on 2201-07-07 18:15:00 and discharged on 2201-07-13 23:27:00. Their hospital admission ID was 22059910. They died on 2201-07-13 23:27:00. The admission type was ew emer.. They arrived via emergency room and were discharged to died. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2201-07-07 12:31:00, ED out: 2201-07-07 19:40:00. Hospital expire flag: 1.
+
+Patient 10007058 was admitted on 2167-11-07 19:05:00 and discharged on 2167-11-11 14:23:00. Their hospital admission ID was 22954658. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2167-11-07 17:57:00, ED out: 2167-11-07 20:22:00. Hospital expire flag: 0.
+
+Patient 10018845 was admitted on 2184-10-08 02:28:00 and discharged on 2184-10-11 17:00:00. Their hospital admission ID was 21101111. The admission type was ew emer.. They arrived via emergency room and were discharged to rehab. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2184-10-07 22:35:00, ED out: 2184-10-08 04:09:00. Hospital expire flag: 0.
+
+Patient 10020640 was admitted on 2153-02-13 00:22:00 and discharged on 2153-02-20 13:52:00. Their hospital admission ID was 27984218. The admission type was ew emer.. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2153-02-12 21:59:00, ED out: 2153-02-13 01:38:00. Hospital expire flag: 0.
+
+Patient 10018081 was admitted on 2134-09-06 15:57:00 and discharged on 2134-09-18 15:50:00. Their hospital admission ID was 25973915. The admission type was ew emer.. They arrived via emergency room and were discharged to chronic/long term acute care. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2134-09-05 16:14:00, ED out: 2134-09-06 16:49:00. Hospital expire flag: 0.
+
+Patient 10018081 was admitted on 2133-12-18 16:58:00 and discharged on 2134-01-12 11:00:00. Their hospital admission ID was 21027282. The admission type was ew emer.. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2133-12-18 12:09:00, ED out: 2133-12-18 17:10:00. Hospital expire flag: 0.
+
+Patient 10021666 was admitted on 2172-03-12 23:47:00 and discharged on 2172-03-23 15:40:00. Their hospital admission ID was 22756440. The admission type was ew emer.. They arrived via emergency room and were discharged to chronic/long term acute care. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2172-03-12 20:52:00, ED out: 2172-03-13 01:46:00. Hospital expire flag: 0.
+
+Patient 10015272 was admitted on 2137-06-12 18:36:00 and discharged on 2137-06-18 15:45:00. Their hospital admission ID was 27993466. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Medicare, Language: ENGLISH. Race: WHITE. ED registration: 2137-06-12 16:54:00, ED out: 2137-06-12 20:37:00. Hospital expire flag: 0.
+
+Patient 10016810 was admitted on 2185-06-16 01:31:00 and discharged on 2185-06-21 15:55:00. Their hospital admission ID was 20973395. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH. Race: UNKNOWN. ED registration: 2185-06-15 23:08:00, ED out: 2185-06-16 02:16:00. Hospital expire flag: 0.
+
+Patient 10021938 was admitted on 2181-10-13 01:48:00 and discharged on 2181-10-14 17:40:00. Their hospital admission ID was 23112364. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2181-10-12 20:17:00, ED out: 2181-10-13 02:52:00. Hospital expire flag: 0.
+
+Patient 10021938 was admitted on 2181-10-25 10:44:00 and discharged on 2181-10-27 15:30:00. Their hospital admission ID was 27154822. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2181-10-25 09:23:00, ED out: 2181-10-25 11:35:00. Hospital expire flag: 0.
+
+Patient 10001725 was admitted on 2110-04-11 15:08:00 and discharged on 2110-04-14 15:00:00. Their hospital admission ID was 25563031. The admission type was ew emer.. They arrived via pacu and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10001217 was admitted on 2157-11-18 22:56:00 and discharged on 2157-11-25 18:00:00. Their hospital admission ID was 24597018. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ?, Marital status: married. Race: WHITE. ED registration: 2157-11-18 17:38:00, ED out: 2157-11-19 01:24:00. Hospital expire flag: 0.
+
+Patient 10023239 was admitted on 2137-06-19 17:35:00 and discharged on 2137-06-22 14:57:00. Their hospital admission ID was 29295881. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2137-06-19 15:05:00, ED out: 2137-06-19 19:09:00. Hospital expire flag: 0.
+
+Patient 10023239 was admitted on 2140-10-03 09:06:00 and discharged on 2140-10-08 15:28:00. Their hospital admission ID was 21759936. The admission type was ew emer.. They arrived via transfer from hospital and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2140-10-03 06:20:00, ED out: 2140-10-03 11:04:00. Hospital expire flag: 0.
+
+Patient 10020944 was admitted on 2131-02-27 15:34:00 and discharged on 2131-03-13 17:01:00. Their hospital admission ID was 29974575. The admission type was ew emer.. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH. Race: UNKNOWN. ED registration: 2131-02-27 13:16:00, ED out: 2131-02-27 16:40:00. Hospital expire flag: 0.
+
+Patient 10027602 was admitted on 2201-10-30 12:05:00 and discharged on 2201-11-20 14:45:00. Their hospital admission ID was 28166872. The admission type was ew emer.. They arrived via emergency room and were discharged to rehab. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2201-10-30 10:48:00, ED out: 2201-10-30 12:25:00. Hospital expire flag: 0.
+
+Patient 10032725 was admitted on 2143-02-17 14:20:00 and discharged on 2143-03-16 17:15:00. Their hospital admission ID was 25177949. The admission type was ew emer.. They arrived via emergency room and were discharged to chronic/long term acute care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2143-02-17 07:19:00, ED out: 2143-02-17 15:18:00. Hospital expire flag: 0.
+
+Patient 10032725 was admitted on 2143-03-22 04:59:00 and discharged on 2143-03-25 13:00:00. Their hospital admission ID was 20611640. The admission type was ew emer.. They arrived via emergency room and were discharged to hospice. Insurance: Other, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2143-03-22 01:19:00, ED out: 2143-03-22 06:42:00. Hospital expire flag: 0.
+
+Patient 10005348 was admitted on 2130-10-26 17:03:00 and discharged on 2130-11-02 16:00:00. Their hospital admission ID was 25239799. The admission type was ew emer.. They arrived via procedure site and were discharged to skilled nursing facility. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10037861 was admitted on 2117-03-14 16:34:00 and discharged on 2117-03-24 00:01:00. Their hospital admission ID was 24540843. They died on 2117-03-24 23:08:00. The admission type was ew emer.. They arrived via emergency room and were discharged to died. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: UNKNOWN. ED registration: 2117-03-14 15:19:00, ED out: 2117-03-14 17:53:00. Hospital expire flag: 1.
+
+Patient 10010471 was admitted on 2155-12-02 19:36:00 and discharged on 2155-12-07 15:30:00. Their hospital admission ID was 29842315. They died on 2155-12-07 15:30:00. The admission type was ew emer.. They arrived via emergency room and were discharged to died. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2155-12-02 16:00:00, ED out: 2155-12-02 20:33:00. Hospital expire flag: 1.
+
+Patient 10005866 was admitted on 2148-03-10 16:16:00 and discharged on 2148-03-21 18:30:00. Their hospital admission ID was 27167814. The admission type was ew emer.. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Medicaid, Language: ENGLISH, Marital status: single. Race: PORTUGUESE. ED registration: 2148-03-10 04:46:00, ED out: 2148-03-10 11:27:00. Hospital expire flag: 0.
+
+Patient 10005866 was admitted on 2149-09-13 07:36:00 and discharged on 2149-09-19 18:00:00. Their hospital admission ID was 26134779. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Medicaid, Language: ENGLISH, Marital status: single. Race: PORTUGUESE. ED registration: 2149-09-12 15:31:00, ED out: 2149-09-13 09:02:00. Hospital expire flag: 0.
+
+Patient 10005866 was admitted on 2146-06-06 00:50:00 and discharged on 2146-06-09 16:45:00. Their hospital admission ID was 26158160. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Medicaid, Language: ENGLISH, Marital status: single. Race: PORTUGUESE. ED registration: 2146-06-05 22:26:00, ED out: 2146-06-06 01:45:00. Hospital expire flag: 0.
+
+Patient 10024043 was admitted on 2117-04-11 20:46:00 and discharged on 2117-04-16 18:55:00. Their hospital admission ID was 24717014. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2117-04-11 17:23:00, ED out: 2117-04-11 22:05:00. Hospital expire flag: 0.
+
+Patient 10021487 was admitted on 2116-12-03 00:23:00 and discharged on 2116-12-28 13:19:00. Their hospital admission ID was 28998349. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2116-12-02 22:57:00, ED out: 2116-12-03 01:02:00. Hospital expire flag: 0.
+
+Patient 10021487 was admitted on 2117-12-03 17:07:00 and discharged on 2117-12-06 17:30:00. Their hospital admission ID was 21928381. The admission type was ew emer.. They arrived via procedure site and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10021487 was admitted on 2117-01-28 00:19:00 and discharged on 2117-02-05 15:40:00. Their hospital admission ID was 26321862. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2117-01-27 18:19:00, ED out: 2117-01-28 01:23:00. Hospital expire flag: 0.
+
+Patient 10021487 was admitted on 2117-10-25 22:22:00 and discharged on 2117-10-29 14:40:00. Their hospital admission ID was 27112038. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2117-10-25 15:49:00, ED out: 2117-10-25 22:53:00. Hospital expire flag: 0.
+
+Patient 10015860 was admitted on 2192-05-12 07:42:00 and discharged on 2192-05-27 18:50:00. Their hospital admission ID was 24698912. The admission type was ew emer.. They arrived via physician referral and were discharged to skilled nursing facility. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2192-05-11 16:26:00, ED out: 2192-05-12 09:31:00. Hospital expire flag: 0.
+
+Patient 10015860 was admitted on 2187-09-15 18:49:00 and discharged on 2187-09-19 14:50:00. Their hospital admission ID was 28236161. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2187-09-15 14:14:00, ED out: 2187-09-15 20:49:00. Hospital expire flag: 0.
+
+Patient 10015860 was admitted on 2189-05-23 02:14:00 and discharged on 2189-05-25 14:45:00. Their hospital admission ID was 20790339. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2189-05-22 23:18:00, ED out: 2189-05-23 03:38:00. Hospital expire flag: 0.
+
+Patient 10015860 was admitted on 2186-09-15 16:12:00 and discharged on 2186-09-29 18:05:00. Their hospital admission ID was 25085565. The admission type was ew emer.. They arrived via emergency room and were discharged to rehab. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2186-09-15 12:56:00, ED out: 2186-09-15 17:15:00. Hospital expire flag: 0.
+
+Patient 10015860 was admitted on 2188-08-06 00:49:00 and discharged on 2188-08-12 17:49:00. Their hospital admission ID was 20854119. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2188-08-05 20:36:00, ED out: 2188-08-06 03:24:00. Hospital expire flag: 0.
+
+Patient 10018423 was admitted on 2167-05-03 21:24:00 and discharged on 2167-05-11 12:57:00. Their hospital admission ID was 29366372. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2167-05-03 15:18:00, ED out: 2167-05-03 22:50:00. Hospital expire flag: 0.
+
+Patient 10007928 was admitted on 2129-04-05 22:56:00 and discharged on 2129-04-11 17:25:00. Their hospital admission ID was 20338077. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2129-04-05 21:18:00, ED out: 2129-04-06 00:25:00. Hospital expire flag: 0.
+
+Patient 10014078 was admitted on 2166-08-21 23:09:00 and discharged on 2166-08-26 14:48:00. Their hospital admission ID was 25809882. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Medicaid, Language: ENGLISH. Race: UNABLE TO OBTAIN. ED registration: 2166-08-21 21:39:00, ED out: 2166-08-22 00:36:00. Hospital expire flag: 0.
+
+Patient 10020740 was admitted on 2150-06-03 20:12:00 and discharged on 2150-06-07 15:05:00. Their hospital admission ID was 25826145. The admission type was ew emer.. They arrived via pacu and were discharged to skilled nursing facility. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10008454 was admitted on 2110-11-30 06:31:00 and discharged on 2110-12-10 15:53:00. Their hospital admission ID was 20291550. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2110-11-30 04:45:00, ED out: 2110-11-30 08:03:00. Hospital expire flag: 0.
+
+Patient 10022281 was admitted on 2125-06-17 04:11:00 and discharged on 2125-06-19 15:25:00. Their hospital admission ID was 29642388. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: OTHER. ED registration: 2125-06-16 20:32:00, ED out: 2125-06-17 05:14:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2150-05-09 16:09:00 and discharged on 2150-05-10 15:59:00. Their hospital admission ID was 24357615. The admission type was ew emer.. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2150-05-08 22:30:00, ED out: 2150-05-09 19:09:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2146-10-08 23:47:00 and discharged on 2146-10-12 18:20:00. Their hospital admission ID was 22741225. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2146-10-08 21:27:00, ED out: 2146-10-09 01:08:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2147-11-14 22:12:00 and discharged on 2147-11-16 15:00:00. Their hospital admission ID was 26013492. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2147-11-14 18:22:00, ED out: 2147-11-14 23:09:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2150-04-10 02:40:00 and discharged on 2150-04-15 18:00:00. Their hospital admission ID was 29757856. The admission type was ew emer.. They arrived via walk-in/self referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2150-04-09 19:50:00, ED out: 2150-04-10 03:46:00. Hospital expire flag: 0.
+
+Patient 10038933 was admitted on 2148-09-10 12:09:00 and discharged on 2148-09-23 12:18:00. Their hospital admission ID was 25129047. The admission type was ew emer.. They arrived via emergency room and were discharged to rehab. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2148-09-10 09:23:00, ED out: 2148-09-10 13:19:00. Hospital expire flag: 0.
+
+Patient 10016150 was admitted on 2142-05-10 15:05:00 and discharged on 2142-05-15 19:49:00. Their hospital admission ID was 29374560. The admission type was ew emer.. They arrived via procedure site and were discharged to rehab. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10022041 was admitted on 2187-05-18 17:08:00 and discharged on 2187-05-23 17:20:00. Their hospital admission ID was 28909879. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: OTHER. ED registration: 2187-05-18 14:59:00, ED out: 2187-05-18 18:39:00. Hospital expire flag: 0.
+
+Patient 10039708 was admitted on 2138-10-30 23:30:00 and discharged on 2138-11-06 23:30:00. Their hospital admission ID was 20572787. The admission type was ew emer.. They arrived via emergency room and were discharged to against advice. Insurance: Other, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2138-10-30 17:27:00, ED out: 2138-10-31 00:19:00. Hospital expire flag: 0.
+
+Patient 10039708 was admitted on 2140-01-23 16:19:00 and discharged on 2140-02-26 18:15:00. Their hospital admission ID was 28258130. The admission type was ew emer.. They arrived via emergency room and were discharged to chronic/long term acute care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2140-01-23 12:35:00, ED out: 2140-01-23 18:08:00. Hospital expire flag: 0.
+
+Patient 10000032 was admitted on 2180-06-26 18:27:00 and discharged on 2180-06-27 18:49:00. Their hospital admission ID was 22841357. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Medicaid, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2180-06-26 15:54:00, ED out: 2180-06-26 21:31:00. Hospital expire flag: 0.
+
+Patient 10000032 was admitted on 2180-08-05 23:44:00 and discharged on 2180-08-07 17:50:00. Their hospital admission ID was 25742920. The admission type was ew emer.. They arrived via emergency room and were discharged to hospice. Insurance: Medicaid, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2180-08-05 20:58:00, ED out: 2180-08-06 01:44:00. Hospital expire flag: 0.
+
+Patient 10000032 was admitted on 2180-07-23 12:35:00 and discharged on 2180-07-25 17:55:00. Their hospital admission ID was 29079034. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Medicaid, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2180-07-23 05:54:00, ED out: 2180-07-23 14:00:00. Hospital expire flag: 0.
+
+Patient 10026406 was admitted on 2129-01-03 15:55:00 and discharged on 2129-01-05 14:10:00. Their hospital admission ID was 25260176. The admission type was ew emer.. They arrived via emergency room and were discharged to against advice. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2129-01-02 23:41:00, ED out: 2129-01-03 18:33:00. Hospital expire flag: 0.
+
+Patient 10037928 was admitted on 2177-12-21 20:47:00 and discharged on 2177-12-23 17:45:00. Their hospital admission ID was 22326517. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Medicare, Language: ?, Marital status: widowed. Race: HISPANIC/LATINO - CUBAN. ED registration: 2177-12-21 16:49:00, ED out: 2177-12-21 22:26:00. Hospital expire flag: 0.
+
+Patient 10037928 was admitted on 2177-07-14 16:55:00 and discharged on 2177-07-24 13:33:00. Their hospital admission ID was 22490490. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Medicare, Language: ?, Marital status: widowed. Race: HISPANIC/LATINO - CUBAN. ED registration: 2177-07-14 14:52:00, ED out: 2177-07-14 20:38:00. Hospital expire flag: 0.
+
+Patient 10037928 was admitted on 2177-09-04 12:05:00 and discharged on 2177-09-07 16:10:00. Their hospital admission ID was 20192635. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Medicare, Language: ?, Marital status: widowed. Race: HISPANIC/LATINO - CUBAN. ED registration: 2177-09-04 06:29:00, ED out: 2177-09-04 14:44:00. Hospital expire flag: 0.
+
+Patient 10037928 was admitted on 2179-07-25 00:06:00 and discharged on 2179-07-28 15:54:00. Their hospital admission ID was 29802992. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Medicare, Language: ?, Marital status: widowed. Race: HISPANIC/LATINO - CUBAN. ED registration: 2179-07-24 18:21:00, ED out: 2179-07-25 01:17:00. Hospital expire flag: 0.
+
+Patient 10037928 was admitted on 2179-03-27 18:27:00 and discharged on 2179-04-04 19:40:00. Their hospital admission ID was 23721604. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Medicare, Language: ?, Marital status: widowed. Race: HISPANIC/LATINO - CUBAN. ED registration: 2179-03-27 14:15:00, ED out: 2179-03-27 19:48:00. Hospital expire flag: 0.
+
+Patient 10037928 was admitted on 2178-09-28 23:05:00 and discharged on 2178-10-02 17:13:00. Their hospital admission ID was 24225421. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Medicare, Language: ?, Marital status: widowed. Race: HISPANIC/LATINO - CUBAN. ED registration: 2178-09-28 20:29:00, ED out: 2178-09-29 00:43:00. Hospital expire flag: 0.
+
+Patient 10037928 was admitted on 2178-12-21 05:30:00 and discharged on 2178-12-26 18:35:00. Their hospital admission ID was 24656677. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Medicare, Language: ?, Marital status: widowed. Race: HISPANIC/LATINO - CUBAN. ED registration: 2178-12-21 03:17:00, ED out: 2178-12-21 08:27:00. Hospital expire flag: 0.
+
+Patient 10029484 was admitted on 2160-11-08 04:16:00 and discharged on 2160-11-11 11:40:00. Their hospital admission ID was 20764029. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2160-11-07 19:15:00, ED out: 2160-11-08 05:23:00. Hospital expire flag: 0.
+
+Patient 10027445 was admitted on 2142-07-31 00:32:00 and discharged on 2142-08-09 17:30:00. Their hospital admission ID was 26275841. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2142-07-30 23:33:00, ED out: 2142-07-31 01:41:00. Hospital expire flag: 0.
+
+Patient 10012853 was admitted on 2176-06-06 18:09:00 and discharged on 2176-06-08 18:30:00. Their hospital admission ID was 22539296. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: BLACK/AFRICAN AMERICAN. ED registration: 2176-06-06 13:33:00, ED out: 2176-06-06 20:18:00. Hospital expire flag: 0.
+
+Patient 10012853 was admitted on 2175-04-05 15:36:00 and discharged on 2175-04-10 16:55:00. Their hospital admission ID was 26369609. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: BLACK/AFRICAN AMERICAN. ED registration: 2175-04-05 06:22:00, ED out: 2175-04-05 17:10:00. Hospital expire flag: 0.
+
+Patient 10012853 was admitted on 2176-11-25 21:28:00 and discharged on 2176-12-03 15:24:00. Their hospital admission ID was 27882036. The admission type was ew emer.. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: BLACK/AFRICAN AMERICAN. ED registration: 2176-11-25 18:34:00, ED out: 2176-11-25 23:51:00. Hospital expire flag: 0.
+
+Patient 10019003 was admitted on 2153-03-27 23:25:00 and discharged on 2153-04-07 16:20:00. Their hospital admission ID was 29279905. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2153-03-27 21:28:00, ED out: 2153-03-28 02:21:00. Hospital expire flag: 0.
+
+Patient 10019003 was admitted on 2155-07-10 17:48:00 and discharged on 2155-07-18 16:59:00. Their hospital admission ID was 21457723. The admission type was ew emer.. They arrived via transfer from hospital and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2155-07-10 12:46:00, ED out: 2155-07-10 19:03:00. Hospital expire flag: 0.
+
+Patient 10019003 was admitted on 2153-04-12 19:07:00 and discharged on 2153-04-20 17:09:00. Their hospital admission ID was 27525946. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2153-04-12 13:03:00, ED out: 2153-04-12 21:40:00. Hospital expire flag: 0.
+
+Patient 10019003 was admitted on 2155-06-10 23:09:00 and discharged on 2155-06-15 16:30:00. Their hospital admission ID was 26703331. The admission type was ew emer.. They arrived via transfer from hospital and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2155-06-10 20:37:00, ED out: 2155-06-11 01:53:00. Hospital expire flag: 0.
+
+Patient 10019777 was admitted on 2187-02-10 18:57:00 and discharged on 2187-02-27 13:22:00. Their hospital admission ID was 27738145. The admission type was ew emer.. They arrived via emergency room and were discharged to hospice. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2187-02-10 15:11:00, ED out: 2187-02-10 20:34:00. Hospital expire flag: 0.
+
+Patient 10018501 was admitted on 2141-07-30 22:34:00 and discharged on 2141-08-05 18:06:00. Their hospital admission ID was 28479513. The admission type was ew emer.. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH. Race: WHITE. ED registration: 2141-07-30 18:53:00, ED out: 2141-07-31 00:01:00. Hospital expire flag: 0.
+
+Patient 10004422 was admitted on 2111-01-15 14:55:00 and discharged on 2111-01-25 15:00:00. Their hospital admission ID was 21255400. The admission type was ew emer.. They arrived via procedure site and were discharged to home health care. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10003400 was admitted on 2136-12-31 21:40:00 and discharged on 2137-01-03 17:05:00. Their hospital admission ID was 27296885. The admission type was ew emer.. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: BLACK/AFRICAN AMERICAN. ED registration: 2136-12-31 13:41:00, ED out: 2137-01-01 00:35:00. Hospital expire flag: 0.
+
+Patient 10003400 was admitted on 2136-11-04 20:43:00 and discharged on 2136-11-12 17:40:00. Their hospital admission ID was 29483621. The admission type was ew emer.. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: BLACK/AFRICAN AMERICAN. ED registration: 2136-11-04 16:08:00, ED out: 2136-11-04 22:12:00. Hospital expire flag: 0.
+
+Patient 10003400 was admitted on 2137-02-07 19:42:00 and discharged on 2137-02-18 18:30:00. Their hospital admission ID was 22390287. The admission type was ew emer.. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: BLACK/AFRICAN AMERICAN. ED registration: 2137-02-07 13:06:00, ED out: 2137-02-07 21:44:00. Hospital expire flag: 0.
+
+Patient 10003400 was admitted on 2134-06-06 02:25:00 and discharged on 2134-06-07 15:05:00. Their hospital admission ID was 26090619. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: BLACK/AFRICAN AMERICAN. ED registration: 2134-06-05 21:42:00, ED out: 2134-06-06 03:44:00. Hospital expire flag: 0.
+
+Patient 10003400 was admitted on 2136-12-09 14:44:00 and discharged on 2136-12-15 16:00:00. Their hospital admission ID was 26467376. The admission type was ew emer.. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: BLACK/AFRICAN AMERICAN. ED registration: 2136-12-09 13:16:00, ED out: 2136-12-09 18:45:00. Hospital expire flag: 0.
+
+Patient 10023117 was admitted on 2171-11-07 21:37:00 and discharged on 2171-11-22 15:30:00. Their hospital admission ID was 28872262. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2171-11-07 17:40:00, ED out: 2171-11-07 22:50:00. Hospital expire flag: 0.
+
+Patient 10023117 was admitted on 2173-04-16 22:15:00 and discharged on 2173-04-20 16:40:00. Their hospital admission ID was 29858644. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2173-04-16 17:00:00, ED out: 2173-04-16 23:18:00. Hospital expire flag: 0.
+
+Patient 10017492 was admitted on 2116-06-26 18:25:00 and discharged on 2116-07-05 08:05:00. Their hospital admission ID was 27417763. They died on 2116-07-05 08:05:00. The admission type was ew emer.. They arrived via emergency room and were discharged to died. Insurance: Medicaid, Language: ?, Marital status: single. Race: PATIENT DECLINED TO ANSWER. ED registration: 2116-06-26 14:29:00, ED out: 2116-06-26 21:46:00. Hospital expire flag: 1.
+
+Patient 10017492 was admitted on 2114-03-19 20:05:00 and discharged on 2114-04-02 18:30:00. Their hospital admission ID was 27672872. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ?, Marital status: single. Race: PATIENT DECLINED TO ANSWER. ED registration: 2114-03-19 15:57:00, ED out: 2114-03-19 21:38:00. Hospital expire flag: 0.
+
+Patient 10038999 was admitted on 2132-05-17 23:32:00 and discharged on 2132-05-23 13:01:00. Their hospital admission ID was 29026789. The admission type was ew emer.. They arrived via transfer from hospital and were discharged to rehab. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2132-05-17 19:56:00, ED out: 2132-05-18 01:36:00. Hospital expire flag: 0.
+
+Patient 10040025 was admitted on 2145-07-03 23:46:00 and discharged on 2145-07-05 13:57:00. Their hospital admission ID was 25172300. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2145-07-03 20:02:00, ED out: 2145-07-04 10:58:00. Hospital expire flag: 0.
+
+Patient 10040025 was admitted on 2145-10-19 23:48:00 and discharged on 2145-10-24 14:20:00. Their hospital admission ID was 25384176. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2145-10-19 19:23:00, ED out: 2145-10-20 00:54:00. Hospital expire flag: 0.
+
+Patient 10040025 was admitted on 2147-11-09 08:02:00 and discharged on 2147-11-14 18:53:00. Their hospital admission ID was 27876215. The admission type was ew emer.. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2147-11-09 04:17:00, ED out: 2147-11-09 10:56:00. Hospital expire flag: 0.
+
+Patient 10040025 was admitted on 2145-07-24 19:00:00 and discharged on 2145-07-31 14:12:00. Their hospital admission ID was 27553957. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2145-07-24 11:30:00, ED out: 2145-07-24 20:32:00. Hospital expire flag: 0.
+
+Patient 10009049 was admitted on 2174-05-26 08:21:00 and discharged on 2174-05-31 14:15:00. Their hospital admission ID was 22995465. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2174-05-26 04:20:00, ED out: 2174-05-26 09:18:00. Hospital expire flag: 0.
+
+Patient 10016742 was admitted on 2178-07-03 21:13:00 and discharged on 2178-07-08 20:20:00. Their hospital admission ID was 29281842. The admission type was ew emer.. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Medicaid, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2178-07-03 17:39:00, ED out: 2178-07-03 22:45:00. Hospital expire flag: 0.
+
+Patient 10004457 was admitted on 2141-08-12 16:02:00 and discharged on 2141-08-13 17:47:00. Their hospital admission ID was 28723315. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2141-08-12 12:08:00, ED out: 2141-08-12 17:20:00. Hospital expire flag: 0.
+
+Patient 10029291 was admitted on 2123-02-20 01:59:00 and discharged on 2123-03-10 15:30:00. Their hospital admission ID was 22205327. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Medicare, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2123-02-19 23:57:00, ED out: 2123-02-20 04:13:00. Hospital expire flag: 0.
+
+Patient 10004720 was admitted on 2186-11-12 18:01:00 and discharged on 2186-11-17 18:30:00. Their hospital admission ID was 22081550. They died on 2186-11-17 18:30:00. The admission type was ew emer.. They arrived via information not available and were discharged to died. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2186-11-12 16:09:00, ED out: 2186-11-12 19:55:00. Hospital expire flag: 1.
+
+Patient 10019568 was admitted on 2120-01-30 21:07:00 and discharged on 2120-02-02 15:40:00. Their hospital admission ID was 28710730. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2120-01-30 19:44:00, ED out: 2120-01-30 22:51:00. Hospital expire flag: 0.
+
+Patient 10002930 was admitted on 2198-04-17 19:38:00 and discharged on 2198-04-22 16:02:00. Their hospital admission ID was 25922998. The admission type was ew emer.. They arrived via emergency room and were discharged to psych facility. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2198-04-17 11:42:00, ED out: 2198-04-17 21:24:00. Hospital expire flag: 0.
+
+Patient 10002930 was admitted on 2196-04-14 12:25:00 and discharged on 2196-04-17 15:28:00. Their hospital admission ID was 25696644. The admission type was ew emer.. They arrived via emergency room and were discharged to psych facility. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2196-04-14 05:55:00, ED out: 2196-04-14 13:40:00. Hospital expire flag: 0.
+
+Patient 10007795 was admitted on 2136-09-22 20:51:00 and discharged on 2136-09-24 14:20:00. Their hospital admission ID was 22051341. The admission type was ew emer.. They arrived via emergency room and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2136-09-22 17:07:00, ED out: 2136-09-22 22:30:00. Hospital expire flag: 0.
+
+Patient 10007795 was admitted on 2136-08-04 22:16:00 and discharged on 2136-08-11 19:20:00. Their hospital admission ID was 20285402. The admission type was ew emer.. They arrived via emergency room and were discharged to home health care. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2136-08-04 16:26:00, ED out: 2136-08-05 00:17:00. Hospital expire flag: 0.
+
+Patient 10010867 was admitted on 2147-12-30 08:40:00 and discharged on 2148-01-11 17:55:00. Their hospital admission ID was 22429197. The admission type was ew emer.. They arrived via emergency room and were discharged to rehab. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE - BRAZILIAN. ED registration: 2147-12-30 06:45:00, ED out: 2147-12-30 09:33:00. Hospital expire flag: 0.
+
+Patient 10025463 was admitted on 2137-10-08 21:20:00 and discharged on 2137-10-09 15:30:00. Their hospital admission ID was 24470193. They died on 2137-10-09 15:30:00. The admission type was ew emer.. They arrived via emergency room and were discharged to died. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2137-10-08 18:16:00, ED out: 2137-10-08 20:44:00. Hospital expire flag: 1.
+
+Patient 10002428 was admitted on 2156-04-12 14:16:00 and discharged on 2156-04-29 16:26:00. Their hospital admission ID was 28662225. The admission type was ew emer.. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2156-04-12 09:56:00, ED out: 2156-04-12 17:11:00. Hospital expire flag: 0.
+
+Patient 10002428 was admitted on 2156-04-30 20:35:00 and discharged on 2156-05-03 16:36:00. Their hospital admission ID was 20321825. The admission type was ew emer.. They arrived via emergency room and were discharged to chronic/long term acute care. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2156-04-30 18:30:00, ED out: 2156-04-30 21:53:00. Hospital expire flag: 0.
+
+Patient 10002428 was admitted on 2156-05-11 14:49:00 and discharged on 2156-05-22 14:16:00. Their hospital admission ID was 23473524. The admission type was ew emer.. They arrived via emergency room and were discharged to chronic/long term acute care. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2156-05-11 11:29:00, ED out: 2156-05-11 16:53:00. Hospital expire flag: 0.
+
+Patient 10007818 was admitted on 2146-06-10 16:37:00 and discharged on 2146-07-12 00:00:00. Their hospital admission ID was 22987108. They died on 2146-07-12 20:50:00. The admission type was direct emer.. They arrived via physician referral and were discharged to died. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 1.
+
+Patient 10004235 was admitted on 2196-06-20 21:11:00 and discharged on 2196-06-22 13:30:00. Their hospital admission ID was 22187210. The admission type was direct emer.. They arrived via physician referral and were discharged to home health care. Insurance: Medicaid, Language: ENGLISH, Marital status: single. Race: BLACK/CAPE VERDEAN. Hospital expire flag: 0.
+
+Patient 10001217 was admitted on 2157-12-18 16:58:00 and discharged on 2157-12-24 14:55:00. Their hospital admission ID was 27703517. The admission type was direct emer.. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ?, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10021487 was admitted on 2117-03-03 15:59:00 and discharged on 2117-03-27 16:40:00. Their hospital admission ID was 27660781. The admission type was direct emer.. They arrived via clinic referral and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10015860 was admitted on 2188-03-29 14:14:00 and discharged on 2188-04-02 16:30:00. Their hospital admission ID was 28613200. The admission type was direct emer.. They arrived via clinic referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10031757 was admitted on 2137-10-12 22:43:00 and discharged on 2137-10-24 17:30:00. Their hospital admission ID was 28477280. The admission type was direct emer.. They arrived via clinic referral and were discharged to hospice. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2148-07-18 02:31:00 and discharged on 2148-07-20 17:47:00. Their hospital admission ID was 27562275. The admission type was direct emer.. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2148-07-17 20:36:00, ED out: 2148-07-18 04:46:00. Hospital expire flag: 0.
+
+Patient 10035631 was admitted on 2113-08-26 17:07:00 and discharged on 2113-08-29 15:18:00. Their hospital admission ID was 27496788. The admission type was direct emer.. They arrived via clinic referral and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10035631 was admitted on 2112-09-17 19:13:00 and discharged on 2112-10-17 01:41:00. Their hospital admission ID was 29462354. The admission type was direct emer.. They arrived via physician referral and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: UNKNOWN. ED registration: 2112-09-17 18:46:00, ED out: 2112-09-17 19:50:00. Hospital expire flag: 0.
+
+Patient 10035631 was admitted on 2112-11-10 15:55:00 and discharged on 2112-11-20 16:20:00. Their hospital admission ID was 22732862. The admission type was direct emer.. They arrived via clinic referral and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: UNKNOWN. Hospital expire flag: 0.
+
+Patient 10035631 was admitted on 2116-02-13 11:17:00 and discharged on 2116-02-15 17:09:00. Their hospital admission ID was 21599196. The admission type was direct emer.. They arrived via physician referral and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10019003 was admitted on 2155-05-17 00:02:00 and discharged on 2155-05-19 18:27:00. Their hospital admission ID was 26529390. The admission type was direct emer.. They arrived via physician referral and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2155-05-17 21:03:00, ED out: 2155-05-18 03:03:00. Hospital expire flag: 0.
+
+Patient 10023117 was admitted on 2174-12-16 13:25:00 and discharged on 2174-12-20 10:27:00. Their hospital admission ID was 28887654. The admission type was direct emer.. They arrived via physician referral and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10002930 was admitted on 2193-08-05 11:45:00 and discharged on 2193-08-11 09:25:00. Their hospital admission ID was 23688993. The admission type was direct emer.. They arrived via physician referral and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2193-08-05 05:04:00, ED out: 2193-08-05 12:00:00. Hospital expire flag: 0.
+
+Patient 10025463 was admitted on 2136-10-31 07:15:00 and discharged on 2136-11-02 16:50:00. Their hospital admission ID was 27327816. The admission type was direct emer.. They arrived via physician referral and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10023239 was admitted on 2140-10-22 22:04:00 and discharged on 2140-10-23 17:01:00. Their hospital admission ID was 28984460. The admission type was eu observation. They arrived via physician referral and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2140-10-22 18:05:00, ED out: 2140-10-23 17:01:00. Hospital expire flag: 0.
+
+Patient 10024043 was admitted on 2117-02-03 20:10:00 and discharged on 2117-02-04 11:53:00. Their hospital admission ID was 25561728. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2117-02-03 17:13:00, ED out: 2117-02-04 11:53:00. Hospital expire flag: 0.
+
+Patient 10015860 was admitted on 2187-12-14 15:48:00 and discharged on 2187-12-16 14:38:00. Their hospital admission ID was 27670224. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2187-12-14 12:49:00, ED out: 2187-12-14 17:48:00. Hospital expire flag: 0.
+
+Patient 10015860 was admitted on 2190-05-15 08:16:00 and discharged on 2190-05-16 15:44:00. Their hospital admission ID was 22607171. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2190-05-14 17:11:00, ED out: 2190-05-15 10:00:00. Hospital expire flag: 0.
+
+Patient 10015860 was admitted on 2193-05-03 22:45:00 and discharged on 2193-05-05 02:13:00. Their hospital admission ID was 22416954. The admission type was eu observation. They arrived via transfer from hospital and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2193-05-03 19:12:00, ED out: 2193-05-05 02:13:00. Hospital expire flag: 0.
+
+Patient 10020740 was admitted on 2151-01-15 15:25:00 and discharged on 2151-01-16 02:38:00. Their hospital admission ID was 23143086. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2151-01-15 11:47:00, ED out: 2151-01-16 02:38:00. Hospital expire flag: 0.
+
+Patient 10020740 was admitted on 2150-09-15 14:09:00 and discharged on 2150-09-15 17:09:00. Their hospital admission ID was 23199774. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2150-09-15 09:31:00, ED out: 2150-09-15 17:09:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2149-06-19 22:54:00 and discharged on 2149-06-20 13:48:00. Their hospital admission ID was 24096336. The admission type was eu observation. They arrived via physician referral and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2149-06-19 17:01:00, ED out: 2149-06-20 13:48:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2146-11-09 01:53:00 and discharged on 2146-11-09 13:13:00. Their hospital admission ID was 26722126. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2146-11-08 21:24:00, ED out: 2146-11-09 13:13:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2149-03-04 23:14:00 and discharged on 2149-03-05 14:59:00. Their hospital admission ID was 20900955. The admission type was eu observation. They arrived via walk-in/self referral and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2149-03-04 20:24:00, ED out: 2149-03-05 14:59:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2147-09-12 05:06:00 and discharged on 2147-09-12 19:00:00. Their hospital admission ID was 22502504. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2147-09-12 02:01:00, ED out: 2147-09-12 06:37:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2149-09-17 22:54:00 and discharged on 2149-09-18 10:45:00. Their hospital admission ID was 26173805. The admission type was eu observation. They arrived via walk-in/self referral and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2149-09-17 09:08:00, ED out: 2149-09-17 23:55:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2147-06-04 00:42:00 and discharged on 2147-06-04 15:00:00. Their hospital admission ID was 27494880. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2147-06-03 22:39:00, ED out: 2147-06-04 09:54:00. Hospital expire flag: 0.
+
+Patient 10039708 was admitted on 2142-07-06 09:08:00 and discharged on 2142-07-07 16:40:00. Their hospital admission ID was 27504040. The admission type was eu observation. They arrived via physician referral and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2142-07-06 07:21:00, ED out: 2142-07-06 08:27:00. Hospital expire flag: 0.
+
+Patient 10026406 was admitted on 2133-03-01 19:30:00 and discharged on 2133-03-04 17:05:00. Their hospital admission ID was 25166559. The admission type was eu observation. They arrived via walk-in/self referral and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2133-03-01 16:42:00, ED out: 2133-03-04 17:05:00. Hospital expire flag: 0.
+
+Patient 10037928 was admitted on 2183-08-04 04:04:00 and discharged on 2183-08-04 16:07:00. Their hospital admission ID was 22228639. The admission type was eu observation. They arrived via physician referral and were discharged to unknown. Insurance: Medicare, Language: ?, Marital status: widowed. Race: HISPANIC/LATINO - CUBAN. ED registration: 2183-08-03 19:27:00, ED out: 2183-08-04 16:07:00. Hospital expire flag: 0.
+
+Patient 10037928 was admitted on 2175-10-26 01:31:00 and discharged on 2175-10-26 12:48:00. Their hospital admission ID was 28543425. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Medicare, Language: ?, Marital status: single. Race: HISPANIC OR LATINO. ED registration: 2175-10-25 19:55:00, ED out: 2175-10-26 12:48:00. Hospital expire flag: 0.
+
+Patient 10012853 was admitted on 2176-08-11 15:17:00 and discharged on 2176-08-11 17:35:00. Their hospital admission ID was 22896692. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: BLACK/AFRICAN AMERICAN. ED registration: 2176-08-11 08:36:00, ED out: 2176-08-11 17:35:00. Hospital expire flag: 0.
+
+Patient 10039997 was admitted on 2135-11-07 02:42:00 and discharged on 2135-11-07 06:27:00. Their hospital admission ID was 21390688. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: BLACK/AFRICAN AMERICAN. ED registration: 2135-11-06 21:44:00, ED out: 2135-11-07 06:27:00. Hospital expire flag: 0.
+
+Patient 10020306 was admitted on 2133-05-05 05:43:00 and discharged on 2133-05-05 15:37:00. Their hospital admission ID was 26332470. The admission type was eu observation. They arrived via clinic referral and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: BLACK/AFRICAN AMERICAN. ED registration: 2133-05-04 20:52:00, ED out: 2133-05-05 15:37:00. Hospital expire flag: 0.
+
+Patient 10002930 was admitted on 2197-04-17 02:01:00 and discharged on 2197-04-17 09:48:00. Their hospital admission ID was 25282382. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2197-04-16 22:57:00, ED out: 2197-04-17 09:48:00. Hospital expire flag: 0.
+
+Patient 10002930 was admitted on 2200-06-05 05:43:00 and discharged on 2200-06-05 10:26:00. Their hospital admission ID was 28697806. The admission type was eu observation. They arrived via physician referral and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2200-06-04 16:38:00, ED out: 2200-06-05 10:26:00. Hospital expire flag: 0.
+
+Patient 10002930 was admitted on 2201-02-12 16:58:00 and discharged on 2201-02-13 11:11:00. Their hospital admission ID was 20846853. The admission type was eu observation. They arrived via physician referral and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2201-02-12 15:11:00, ED out: 2201-02-13 11:11:00. Hospital expire flag: 0.
+
+Patient 10002930 was admitted on 2193-08-05 06:18:00 and discharged on 2193-08-05 11:44:00. Their hospital admission ID was 22380825. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2193-08-05 05:04:00, ED out: 2193-08-05 12:00:00. Hospital expire flag: 0.
+
+Patient 10002930 was admitted on 2199-02-17 21:45:00 and discharged on 2199-02-19 13:38:00. Their hospital admission ID was 23720373. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2199-02-17 14:32:00, ED out: 2199-02-19 13:38:00. Hospital expire flag: 0.
+
+Patient 10002930 was admitted on 2201-03-23 19:15:00 and discharged on 2201-03-26 14:24:00. Their hospital admission ID was 20282368. The admission type was eu observation. They arrived via physician referral and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2201-03-23 12:04:00, ED out: 2201-03-26 14:24:00. Hospital expire flag: 0.
+
+Patient 10002930 was admitted on 2197-04-07 06:56:00 and discharged on 2197-04-08 19:37:00. Their hospital admission ID was 28477649. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2197-04-07 03:20:00, ED out: 2197-04-08 20:14:00. Hospital expire flag: 0.
+
+Patient 10002428 was admitted on 2157-07-16 04:09:00 and discharged on 2157-07-18 16:49:00. Their hospital admission ID was 28676446. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2157-07-16 01:50:00, ED out: 2157-07-16 09:51:00. Hospital expire flag: 0.
+
+Patient 10002428 was admitted on 2155-07-14 19:15:00 and discharged on 2155-07-15 18:37:00. Their hospital admission ID was 25797028. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2155-07-14 16:58:00, ED out: 2155-07-14 20:04:00. Hospital expire flag: 0.
+
+Patient 10002428 was admitted on 2160-07-15 23:37:00 and discharged on 2160-07-16 18:49:00. Their hospital admission ID was 26549334. The admission type was eu observation. They arrived via emergency room and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2160-07-15 17:34:00, ED out: 2160-07-16 18:49:00. Hospital expire flag: 0.
+
+Patient 10018328 was admitted on 2154-02-05 21:58:00 and discharged on 2154-02-09 15:15:00. Their hospital admission ID was 26706939. The admission type was observation admit. They arrived via transfer from hospital and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2154-02-05 17:09:00, ED out: 2154-02-05 22:54:00. Hospital expire flag: 0.
+
+Patient 10005817 was admitted on 2135-01-03 21:54:00 and discharged on 2135-01-19 18:36:00. Their hospital admission ID was 28661809. They died on 2135-01-19 18:36:00. The admission type was observation admit. They arrived via transfer from hospital and were discharged to died. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 1.
+
+Patient 10019385 was admitted on 2180-03-04 01:16:00 and discharged on 2180-03-06 18:32:00. Their hospital admission ID was 20611796. The admission type was observation admit. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2180-03-03 20:26:00, ED out: 2180-03-04 02:24:00. Hospital expire flag: 0.
+
+Patient 10020187 was admitted on 2169-01-15 04:04:00 and discharged on 2169-01-24 17:20:00. Their hospital admission ID was 24104168. The admission type was observation admit. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ?, Marital status: married. Race: HISPANIC/LATINO - SALVADORAN. ED registration: 2169-01-14 23:26:00, ED out: 2169-01-15 04:56:00. Hospital expire flag: 0.
+
+Patient 10010471 was admitted on 2155-05-08 17:05:00 and discharged on 2155-05-10 18:55:00. Their hospital admission ID was 21322534. The admission type was observation admit. They arrived via emergency room and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2155-05-08 13:48:00, ED out: 2155-05-08 18:16:00. Hospital expire flag: 0.
+
+Patient 10005866 was admitted on 2149-02-11 21:49:00 and discharged on 2149-02-14 16:45:00. Their hospital admission ID was 22589518. The admission type was observation admit. They arrived via emergency room and were discharged to home. Insurance: Medicaid, Language: ENGLISH, Marital status: single. Race: PORTUGUESE. ED registration: 2149-02-11 08:52:00, ED out: 2149-02-11 23:09:00. Hospital expire flag: 0.
+
+Patient 10005866 was admitted on 2149-09-20 14:30:00 and discharged on 2149-09-26 15:05:00. Their hospital admission ID was 21636229. The admission type was observation admit. They arrived via emergency room and were discharged to home. Insurance: Medicaid, Language: ENGLISH, Marital status: single. Race: PORTUGUESE. ED registration: 2149-09-20 05:50:00, ED out: 2149-09-20 15:53:00. Hospital expire flag: 0.
+
+Patient 10005866 was admitted on 2149-06-20 19:27:00 and discharged on 2149-06-25 15:55:00. Their hospital admission ID was 23514107. The admission type was observation admit. They arrived via emergency room and were discharged to home. Insurance: Medicaid, Language: ENGLISH, Marital status: single. Race: PORTUGUESE. ED registration: 2149-06-20 10:20:00, ED out: 2149-06-20 20:59:00. Hospital expire flag: 0.
+
+Patient 10005866 was admitted on 2149-10-01 18:56:00 and discharged on 2149-10-25 18:50:00. Their hospital admission ID was 20364112. The admission type was observation admit. They arrived via physician referral and were discharged to skilled nursing facility. Insurance: Medicaid, Language: ENGLISH, Marital status: single. Race: PORTUGUESE. ED registration: 2149-10-01 02:07:00, ED out: 2149-10-01 15:59:00. Hospital expire flag: 0.
+
+Patient 10015860 was admitted on 2192-07-31 16:05:00 and discharged on 2192-08-06 16:37:00. Their hospital admission ID was 25103777. The admission type was observation admit. They arrived via transfer from skilled nursing facility and were discharged to skilled nursing facility. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2192-07-31 11:00:00, ED out: 2192-07-31 17:10:00. Hospital expire flag: 0.
+
+Patient 10015860 was admitted on 2191-01-15 01:55:00 and discharged on 2191-01-30 17:09:00. Their hospital admission ID was 22413744. The admission type was observation admit. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2191-01-14 21:18:00, ED out: 2191-01-15 03:20:00. Hospital expire flag: 0.
+
+Patient 10015860 was admitted on 2193-11-23 19:15:00 and discharged on 2193-11-27 21:58:00. Their hospital admission ID was 28196804. The admission type was observation admit. They arrived via walk-in/self referral and were discharged to skilled nursing facility. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2193-11-23 12:38:00, ED out: 2193-11-23 20:59:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2148-05-10 23:29:00 and discharged on 2148-05-20 14:30:00. Their hospital admission ID was 22508257. The admission type was observation admit. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2148-05-10 20:25:00, ED out: 2148-05-11 01:22:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2148-08-14 22:57:00 and discharged on 2148-08-18 21:12:00. Their hospital admission ID was 29600294. The admission type was observation admit. They arrived via physician referral and were discharged to against advice. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2148-08-14 16:32:00, ED out: 2148-08-15 00:27:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2150-04-30 20:19:00 and discharged on 2150-05-07 14:10:00. Their hospital admission ID was 26228185. The admission type was observation admit. They arrived via transfer from hospital and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2150-04-30 14:26:00, ED out: 2150-04-30 21:54:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2150-02-04 20:12:00 and discharged on 2150-02-08 14:10:00. Their hospital admission ID was 24980601. The admission type was observation admit. They arrived via physician referral and were discharged to against advice. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2150-02-04 14:50:00, ED out: 2150-02-04 22:44:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2148-08-22 15:18:00 and discharged on 2148-09-08 12:00:00. Their hospital admission ID was 26486158. The admission type was observation admit. They arrived via clinic referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2147-11-26 00:39:00 and discharged on 2147-11-30 16:54:00. Their hospital admission ID was 29780751. The admission type was observation admit. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2147-11-25 19:39:00, ED out: 2147-11-26 01:30:00. Hospital expire flag: 0.
+
+Patient 10014354 was admitted on 2148-06-24 15:22:00 and discharged on 2148-06-28 13:54:00. Their hospital admission ID was 23132022. The admission type was observation admit. They arrived via physician referral and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2148-06-24 09:22:00, ED out: 2148-06-24 16:12:00. Hospital expire flag: 0.
+
+Patient 10005909 was admitted on 2144-10-28 23:20:00 and discharged on 2144-11-02 15:23:00. Their hospital admission ID was 20199380. The admission type was observation admit. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2144-10-28 18:29:00, ED out: 2144-10-29 00:10:00. Hospital expire flag: 0.
+
+Patient 10039708 was admitted on 2140-09-25 04:17:00 and discharged on 2140-09-26 17:40:00. Their hospital admission ID was 26793610. The admission type was observation admit. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2140-09-24 21:17:00, ED out: 2140-09-25 05:57:00. Hospital expire flag: 0.
+
+Patient 10039708 was admitted on 2144-01-19 12:07:00 and discharged on 2144-01-21 21:20:00. Their hospital admission ID was 29488258. The admission type was observation admit. They arrived via walk-in/self referral and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2144-01-18 11:53:00, ED out: 2144-01-19 13:59:00. Hospital expire flag: 0.
+
+Patient 10039708 was admitted on 2143-09-19 18:36:00 and discharged on 2143-09-22 23:00:00. Their hospital admission ID was 24928679. The admission type was observation admit. They arrived via clinic referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2143-09-19 10:57:00, ED out: 2143-09-19 20:57:00. Hospital expire flag: 0.
+
+Patient 10039708 was admitted on 2140-06-18 00:22:00 and discharged on 2140-06-22 17:40:00. Their hospital admission ID was 23819016. The admission type was observation admit. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2140-06-17 17:47:00, ED out: 2140-06-18 01:41:00. Hospital expire flag: 0.
+
+Patient 10039708 was admitted on 2143-09-26 18:24:00 and discharged on 2143-09-30 20:00:00. Their hospital admission ID was 20093566. The admission type was observation admit. They arrived via clinic referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2143-09-26 08:16:00, ED out: 2143-09-26 19:52:00. Hospital expire flag: 0.
+
+Patient 10037928 was admitted on 2182-04-29 04:29:00 and discharged on 2182-05-03 17:20:00. Their hospital admission ID was 24885579. The admission type was observation admit. They arrived via walk-in/self referral and were discharged to home. Insurance: Medicare, Language: ?, Marital status: widowed. Race: HISPANIC/LATINO - CUBAN. ED registration: 2182-04-28 17:25:00, ED out: 2182-04-29 07:49:00. Hospital expire flag: 0.
+
+Patient 10035631 was admitted on 2115-11-08 13:54:00 and discharged on 2115-12-08 17:31:00. Their hospital admission ID was 21476294. The admission type was observation admit. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2115-11-08 12:02:00, ED out: 2115-11-08 15:43:00. Hospital expire flag: 0.
+
+Patient 10035631 was admitted on 2116-02-27 20:55:00 and discharged on 2116-03-12 07:45:00. Their hospital admission ID was 29276678. They died on 2116-03-12 07:45:00. The admission type was observation admit. They arrived via emergency room and were discharged to died. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2116-02-27 15:33:00, ED out: 2116-02-27 22:03:00. Hospital expire flag: 1.
+
+Patient 10015931 was admitted on 2176-12-16 23:31:00 and discharged on 2176-12-31 17:35:00. Their hospital admission ID was 24420677. The admission type was observation admit. They arrived via emergency room and were discharged to home health care. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2176-12-16 18:24:00, ED out: 2176-12-17 01:07:00. Hospital expire flag: 0.
+
+Patient 10015931 was admitted on 2176-11-14 18:02:00 and discharged on 2176-11-27 13:30:00. Their hospital admission ID was 28157142. The admission type was observation admit. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. ED registration: 2176-11-14 02:27:00, ED out: 2176-11-14 19:51:00. Hospital expire flag: 0.
+
+Patient 10019003 was admitted on 2155-05-22 21:46:00 and discharged on 2155-05-30 03:30:00. Their hospital admission ID was 25508812. The admission type was observation admit. They arrived via physician referral and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10039997 was admitted on 2137-03-15 22:08:00 and discharged on 2137-03-18 16:34:00. Their hospital admission ID was 22484749. The admission type was observation admit. They arrived via physician referral and were discharged to rehab. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: BLACK/AFRICAN AMERICAN. ED registration: 2137-03-15 15:27:00, ED out: 2137-03-16 00:11:00. Hospital expire flag: 0.
+
+Patient 10023117 was admitted on 2175-07-06 15:57:00 and discharged on 2175-07-20 00:00:00. Their hospital admission ID was 21607814. They died on 2175-07-20 22:50:00. The admission type was observation admit. They arrived via emergency room and were discharged to died. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2175-07-06 14:02:00, ED out: 2175-07-06 17:41:00. Hospital expire flag: 1.
+
+Patient 10023117 was admitted on 2175-03-20 23:29:00 and discharged on 2175-03-29 16:00:00. Their hospital admission ID was 21133938. The admission type was observation admit. They arrived via transfer from hospital and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10020306 was admitted on 2135-01-15 20:55:00 and discharged on 2135-02-07 17:50:00. Their hospital admission ID was 23052851. The admission type was observation admit. They arrived via physician referral and were discharged to skilled nursing facility. Insurance: Other, Language: ENGLISH, Marital status: widowed. Race: BLACK/AFRICAN AMERICAN. ED registration: 2135-01-15 16:12:00, ED out: 2135-01-15 22:38:00. Hospital expire flag: 0.
+
+Patient 10038999 was admitted on 2131-05-22 21:49:00 and discharged on 2131-06-04 13:43:00. Their hospital admission ID was 27189241. The admission type was observation admit. They arrived via emergency room and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: WHITE. ED registration: 2131-05-22 20:33:00, ED out: 2131-05-22 21:28:00. Hospital expire flag: 0.
+
+Patient 10040025 was admitted on 2147-06-16 22:00:00 and discharged on 2147-06-22 16:15:00. Their hospital admission ID was 21791856. The admission type was observation admit. They arrived via emergency room and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2147-06-16 18:58:00, ED out: 2147-06-16 23:06:00. Hospital expire flag: 0.
+
+Patient 10040025 was admitted on 2147-08-03 02:58:00 and discharged on 2147-08-06 16:50:00. Their hospital admission ID was 22251969. The admission type was observation admit. They arrived via emergency room and were discharged to home. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2147-08-02 18:14:00, ED out: 2147-08-03 02:41:00. Hospital expire flag: 0.
+
+Patient 10040025 was admitted on 2147-12-04 20:48:00 and discharged on 2147-12-18 16:43:00. Their hospital admission ID was 27259207. The admission type was observation admit. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2147-12-04 13:11:00, ED out: 2147-12-05 02:28:00. Hospital expire flag: 0.
+
+Patient 10040025 was admitted on 2148-01-23 12:18:00 and discharged on 2148-02-04 20:51:00. Their hospital admission ID was 27996267. The admission type was observation admit. They arrived via transfer from skilled nursing facility and were discharged to hospice. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. ED registration: 2148-01-22 14:47:00, ED out: 2148-01-23 09:42:00. Hospital expire flag: 0.
+
+Patient 10016742 was admitted on 2178-07-13 05:40:00 and discharged on 2178-07-16 02:00:00. Their hospital admission ID was 28506150. The admission type was observation admit. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Medicaid, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2178-07-13 04:37:00, ED out: 2178-07-13 08:16:00. Hospital expire flag: 0.
+
+Patient 10016742 was admitted on 2178-07-22 07:19:00 and discharged on 2178-07-25 16:30:00. Their hospital admission ID was 27568122. The admission type was observation admit. They arrived via emergency room and were discharged to chronic/long term acute care. Insurance: Medicaid, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2178-07-22 05:41:00, ED out: 2178-07-22 08:19:00. Hospital expire flag: 0.
+
+Patient 10010867 was admitted on 2148-03-07 23:30:00 and discharged on 2148-03-13 15:50:00. Their hospital admission ID was 22196214. The admission type was observation admit. They arrived via emergency room and were discharged to rehab. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE - BRAZILIAN. ED registration: 2148-03-07 18:21:00, ED out: 2148-03-08 00:50:00. Hospital expire flag: 0.
+
+Patient 10010867 was admitted on 2148-01-25 22:58:00 and discharged on 2148-01-30 11:23:00. Their hospital admission ID was 22950920. The admission type was observation admit. They arrived via emergency room and were discharged to rehab. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE - BRAZILIAN. ED registration: 2148-01-25 18:46:00, ED out: 2148-01-26 01:27:00. Hospital expire flag: 0.
+
+Patient 10002428 was admitted on 2160-04-14 12:30:00 and discharged on 2160-04-18 16:00:00. Their hospital admission ID was 28295257. The admission type was observation admit. They arrived via emergency room and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. ED registration: 2160-04-14 09:01:00, ED out: 2160-04-14 14:28:00. Hospital expire flag: 0.
+
+Patient 10005348 was admitted on 2129-05-22 16:00:00 and discharged on 2129-05-23 11:30:00. Their hospital admission ID was 29176490. The admission type was direct observation. They arrived via physician referral and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10020740 was admitted on 2150-07-09 22:09:00 and discharged on 2150-07-12 18:00:00. Their hospital admission ID was 29820177. The admission type was direct observation. They arrived via clinic referral and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10039708 was admitted on 2142-05-15 17:14:00 and discharged on 2142-05-15 18:21:00. Their hospital admission ID was 22999601. The admission type was direct observation. They arrived via physician referral and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. ED registration: 2142-05-15 10:47:00, ED out: 2142-05-15 18:21:00. Hospital expire flag: 0.
+
+Patient 10012853 was admitted on 2177-11-03 09:30:00 and discharged on 2177-11-04 15:06:00. Their hospital admission ID was 20457729. The admission type was direct observation. They arrived via physician referral and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: BLACK/AFRICAN AMERICAN. Hospital expire flag: 0.
+
+Patient 10012853 was admitted on 2177-02-11 07:15:00 and discharged on 2177-02-12 16:20:00. Their hospital admission ID was 26739864. The admission type was direct observation. They arrived via physician referral and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: BLACK/AFRICAN AMERICAN. Hospital expire flag: 0.
+
+Patient 10004457 was admitted on 2148-09-14 14:19:00 and discharged on 2148-09-15 12:45:00. Their hospital admission ID was 25559382. The admission type was direct observation. They arrived via physician referral and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: divorced. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10007795 was admitted on 2136-07-24 17:15:00 and discharged on 2136-07-27 14:27:00. Their hospital admission ID was 27962747. The admission type was direct observation. They arrived via physician referral and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10035631 was admitted on 2113-07-17 17:15:00 and discharged on 2113-07-18 14:55:00. Their hospital admission ID was 29654498. The admission type was ambulatory observation. They arrived via pacu and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10020306 was admitted on 2129-10-29 08:00:00 and discharged on 2129-10-30 13:20:00. Their hospital admission ID was 28778757. The admission type was ambulatory observation. They arrived via pacu and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: BLACK/AFRICAN AMERICAN. Hospital expire flag: 0.
+
+Patient 10040025 was admitted on 2143-03-18 12:34:00 and discharged on 2143-03-19 12:00:00. Their hospital admission ID was 27125816. The admission type was ambulatory observation. They arrived via procedure site and were discharged to unknown. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10004457 was admitted on 2140-09-17 13:41:00 and discharged on 2140-09-18 12:40:00. Their hospital admission ID was 21039249. The admission type was ambulatory observation. They arrived via procedure site and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10004457 was admitted on 2143-03-09 11:10:00 and discharged on 2143-03-10 11:35:00. Their hospital admission ID was 21216581. The admission type was ambulatory observation. They arrived via procedure site and were discharged to unknown. Insurance: Medicare, Language: ENGLISH, Marital status: divorced. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10011398 was admitted on 2146-12-15 07:15:00 and discharged on 2146-12-19 13:37:00. Their hospital admission ID was 27505812. The admission type was surgical same day admission. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: married. Race: HISPANIC OR LATINO. Hospital expire flag: 0.
+
+Patient 10014729 was admitted on 2125-02-27 07:15:00 and discharged on 2125-03-06 14:25:00. Their hospital admission ID was 28889419. The admission type was surgical same day admission. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE - OTHER EUROPEAN. Hospital expire flag: 0.
+
+Patient 10004235 was admitted on 2196-06-14 08:30:00 and discharged on 2196-06-19 14:54:00. Their hospital admission ID was 25970245. The admission type was surgical same day admission. They arrived via physician referral and were discharged to home health care. Insurance: Medicaid, Language: ENGLISH, Marital status: single. Race: BLACK/CAPE VERDEAN. Hospital expire flag: 0.
+
+Patient 10039831 was admitted on 2115-12-28 07:15:00 and discharged on 2116-01-02 14:34:00. Their hospital admission ID was 26924951. The admission type was surgical same day admission. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: married. Race: UNABLE TO OBTAIN. Hospital expire flag: 0.
+
+Patient 10018328 was admitted on 2154-04-24 03:15:00 and discharged on 2154-05-03 14:00:00. Their hospital admission ID was 23786647. The admission type was surgical same day admission. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: divorced. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10018081 was admitted on 2134-08-02 07:15:00 and discharged on 2134-08-13 17:34:00. Their hospital admission ID was 28861356. The admission type was surgical same day admission. They arrived via physician referral and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10027602 was admitted on 2201-12-11 12:00:00 and discharged on 2201-12-17 13:45:00. Their hospital admission ID was 21477991. The admission type was surgical same day admission. They arrived via physician referral and were discharged to rehab. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10020187 was admitted on 2170-02-24 00:00:00 and discharged on 2170-02-25 15:00:00. Their hospital admission ID was 26842957. The admission type was surgical same day admission. They arrived via physician referral and were discharged to home. Insurance: Other, Language: ?, Marital status: married. Race: HISPANIC/LATINO - SALVADORAN. Hospital expire flag: 0.
+
+Patient 10003046 was admitted on 2154-01-02 07:15:00 and discharged on 2154-01-09 11:53:00. Their hospital admission ID was 26048429. The admission type was surgical same day admission. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10022017 was admitted on 2189-09-10 00:00:00 and discharged on 2189-09-16 15:00:00. Their hospital admission ID was 22342963. The admission type was surgical same day admission. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10025612 was admitted on 2125-09-25 07:15:00 and discharged on 2125-10-03 12:24:00. Their hospital admission ID was 23403708. The admission type was surgical same day admission. They arrived via physician referral and were discharged to home health care. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10039997 was admitted on 2134-09-07 12:00:00 and discharged on 2134-09-11 13:10:00. Their hospital admission ID was 24294180. The admission type was surgical same day admission. They arrived via physician referral and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: BLACK/AFRICAN AMERICAN. Hospital expire flag: 0.
+
+Patient 10023117 was admitted on 2170-10-08 07:15:00 and discharged on 2170-10-09 16:30:00. Their hospital admission ID was 29839885. The admission type was surgical same day admission. They arrived via physician referral and were discharged to home health care. Insurance: Medicare, Language: ENGLISH, Marital status: widowed. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10038992 was admitted on 2187-07-29 01:05:00 and discharged on 2187-08-03 17:02:00. Their hospital admission ID was 24745425. The admission type was surgical same day admission. They arrived via physician referral and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10008287 was admitted on 2145-09-28 01:17:00 and discharged on 2145-10-02 13:35:00. Their hospital admission ID was 22168393. The admission type was surgical same day admission. They arrived via physician referral and were discharged to home health care. Insurance: Other, Language: ENGLISH, Marital status: single. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10022880 was admitted on 2177-03-12 07:15:00 and discharged on 2177-03-19 14:25:00. Their hospital admission ID was 27708593. The admission type was surgical same day admission. They arrived via physician referral and were discharged to home. Insurance: Medicare, Language: ENGLISH, Marital status: married. Race: WHITE. Hospital expire flag: 0.
+
+Patient 10004457 was admitted on 2141-12-17 11:00:00 and discharged on 2141-12-21 15:56:00. Their hospital admission ID was 23251352. The admission type was surgical same day admission. They arrived via physician referral and were discharged to rehab. Insurance: Medicare, Language: ENGLISH, Marital status: single. Race: OTHER. Hospital expire flag: 0.
+
+Patient 10004457 was admitted on 2147-12-19 00:00:00 and discharged on 2147-12-21 16:10:00. Their hospital admission ID was 28108313. The admission type was surgical same day admission. They arrived via physician referral and were discharged to skilled nursing facility. Insurance: Medicare, Language: ENGLISH, Marital status: divorced. Race: WHITE. Hospital expire flag: 0.
+
